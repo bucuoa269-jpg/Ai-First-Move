@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-06-18",
+  "count": 3,
+  "note": "只保存公开节目链接与原创结构化摘要，不复制逐字稿；收入数字按当事人自述处理。",
+  "records": [
+    {
+      "id": "iv-1",
+      "slug": "tuzi-life-system-template",
+      "title": "兔子：从人生管理模板到数字系统搭建服务",
+      "show": "搞钱女孩",
+      "guest": "兔子宇宙",
+      "publishedAt": "2025-05-14",
+      "duration": "公开节目页未完整展示",
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "url": "https://podcasts.apple.com/cn/podcast/%E5%85%94%E5%AD%90-%E5%8D%96%E4%BA%BA%E7%94%9F%E7%AE%A1%E7%90%86%E6%A8%A1%E7%89%88%E4%B8%80%E5%B9%B4%E8%B5%9A40w-p%E4%BA%BA%E6%98%AFj%E4%BA%BA%E7%9A%84%E6%91%87%E9%92%B1%E6%A0%91/id1676099257?i=1000708527449",
+      "summary": "节目围绕 Notion 人生管理模板、内容获客与定制咨询展开，展示了“先解决自己的问题，再把方法产品化”的路径。",
+      "opportunitySignal": "模板本身容易同质化，真正有价值的是需求诊断、结构设计、落地陪跑和持续迭代。",
+      "transferableLessons": [
+        "先用自己的真实场景打磨模板",
+        "用公开内容展示使用前后的变化",
+        "从低价模板延伸到定制与咨询",
+        "把交付流程沉淀为可复用组件"
+      ],
+      "nonTransferableNotes": [
+        "节目标题中的收入属于当事人自述",
+        "单个案例不能代表普遍结果",
+        "平台流量、个人表达与已有信任基础难以复制"
+      ],
+      "evidenceNote": "B级案例证据：节目页可核验嘉宾叙述与业务形态，但收入、成本和净利润缺少独立审计。",
+      "tags": [
+        "数字产品",
+        "Notion",
+        "小红书获客",
+        "咨询服务"
+      ]
+    },
+    {
+      "id": "iv-2",
+      "slug": "weiyong-ai-transformation-side-hustle",
+      "title": "唯庸访谈：企业 AI 转型与个人 AI 副业",
+      "show": "longhiller",
+      "guest": "惟庸",
+      "publishedAt": "2025-06-13",
+      "duration": "101分钟",
+      "sourceLevel": "B",
+      "verificationStatus": "verified",
+      "url": "https://www.xiaoyuzhoufm.com/episode/684b9f57574f065721ea577b",
+      "summary": "节目讨论企业 AI 转型、工作流交付、个人副业与服务切口，强调先进技术不等于商业成功。",
+      "opportunitySignal": "中小企业更愿意为“能直接落地的小工作流”付款，而不是为抽象的 AI 概念或复杂平台付款。",
+      "transferableLessons": [
+        "先选择小切口见效",
+        "从培训和诊断进入，再做交付",
+        "把知识管理与核心业务工作流分开",
+        "先证明ROI，再谈系统级合作"
+      ],
+      "nonTransferableNotes": [
+        "企业服务需要销售、沟通和交付能力",
+        "嘉宾履历与行业网络不是零基础用户立即拥有的",
+        "不同企业的数据权限与合规边界差异很大"
+      ],
+      "evidenceNote": "B级访谈证据：节目页提供嘉宾、主题与时间轴；观点属于嘉宾经验，不是行业普遍统计。",
+      "tags": [
+        "AI自动化",
+        "企业服务",
+        "Agent",
+        "副业"
+      ]
+    },
+    {
+      "id": "iv-3",
+      "slug": "young-ai-startup-reality",
+      "title": "AI 让年轻人都想创业，但你做好不赚钱也能快乐的准备了吗？",
+      "show": "意义无异议",
+      "guest": "Cathy（青年创业孵化从业者）",
+      "publishedAt": "2026-05-12",
+      "duration": "77分钟",
+      "sourceLevel": "B",
+      "verificationStatus": "verified",
+      "url": "https://www.xiaoyuzhoufm.com/podcast/690af3b5fea352f619aaf77e",
+      "summary": "节目从青年创业孵化经验讨论 AI 创业热潮、创业动机、价值创造和年轻创业者常见误区。",
+      "opportunitySignal": "AI 降低了制作门槛，却同时提高了竞争密度；真正稀缺的是明确价值、持续行动和验证能力。",
+      "transferableLessons": [
+        "先明确创造什么价值",
+        "在激情与严谨论证之间保持平衡",
+        "把创业动机与真实用户需求分开",
+        "用小实验替代宏大叙事"
+      ],
+      "nonTransferableNotes": [
+        "创业孵化案例不等于项目成功率",
+        "社会价值与商业可持续需要分别验证",
+        "节目观点不能替代法律、财务和行业调研"
+      ],
+      "evidenceNote": "B级访谈证据：公开节目页可核验主题、嘉宾背景与时间轴；案例与观点仍需结合原始项目验证。",
+      "tags": [
+        "青年创业",
+        "AI创业",
+        "MVP",
+        "价值验证"
+      ]
+    }
+  ]
+}

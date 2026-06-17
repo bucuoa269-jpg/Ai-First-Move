@@ -1,0 +1,975 @@
+{
+  "generatedAt": "2026-06-18",
+  "records": [
+    {
+      "id": "c1",
+      "slug": "douyin-ai-creator-2026",
+      "title": "抖音 AI 创作大赛（即梦 AI 官方活动）",
+      "summary": "面向 AI 创作者的官方投稿活动，当前页面显示投稿窗口持续至 2026 年 8 月 20 日。",
+      "insight": "适合把比赛当作作品集、平台曝光和客户样片，而不是只盯奖金。",
+      "type": "competition",
+      "domains": [
+        "AI视频",
+        "AI设计",
+        "内容创作"
+      ],
+      "audienceTags": [
+        "大学生",
+        "视频创作者",
+        "设计师"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "verified",
+      "officialUrl": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-289-dreamina-weekly-challenge",
+      "discoverySources": [
+        {
+          "name": "即梦 AI 活动页",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-289-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "即梦 AI 官方活动详情",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-289-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "publishedAt": "2026-06-09",
+      "deadlineAt": "2026-08-20",
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "3—7天完成首支作品",
+      "difficulty": 2,
+      "demandEvidence": "官方活动页面与投稿入口已核验。",
+      "monetizationPaths": [
+        "作品集",
+        "平台曝光",
+        "品牌样片"
+      ],
+      "whoPays": "比赛本身不等于稳定收入；后续可能由品牌、商家或内容客户付费。",
+      "firstCustomerPath": "把参赛作品整理成前后对比案例，定向联系3家本地品牌。",
+      "minimumDeliverable": "15—30秒完整AI短片与制作说明",
+      "actionPlan3Days": [
+        "读完规则与版权条款",
+        "确定一个可完成的创意",
+        "做出10秒风格测试"
+      ],
+      "actionPlan7Days": [
+        "完成作品",
+        "提交活动",
+        "整理作品集页面",
+        "联系潜在客户测试需求"
+      ],
+      "stopConditions": [
+        "无法满足授权要求",
+        "连续三版仍无法稳定生成主体",
+        "工具成本超出预算"
+      ],
+      "risks": [
+        "版权和肖像授权",
+        "活动结果不等同于商业需求"
+      ],
+      "score": 93
+    },
+    {
+      "id": "c2",
+      "slug": "harmonyos-geek-2026",
+      "title": "2026 HarmonyOS 创新赛·极客赛道",
+      "summary": "华为开发者联盟官方赛事，鼓励基于 HarmonyOS AI、全场景能力开发应用、游戏、元服务或小艺智能体。",
+      "insight": "适合用一场官方赛事完成鸿蒙作品集和团队协作验证。",
+      "type": "competition",
+      "domains": [
+        "AI编程",
+        "鸿蒙",
+        "智能体"
+      ],
+      "audienceTags": [
+        "开发者",
+        "大学生",
+        "产品经理"
+      ],
+      "country": "中国",
+      "city": "东莞",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101773710117484023",
+      "discoverySources": [
+        {
+          "name": "华为开发者联盟",
+          "url": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101773710117484023",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "赛事官方详情",
+          "url": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101773710117484023",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低成本",
+      "timeToValidate": "7—30天",
+      "difficulty": 4,
+      "demandEvidence": "官方赛事与技术方向可核验；具体报名节点请以页面实时状态为准。",
+      "monetizationPaths": [
+        "作品集",
+        "开发者生态",
+        "实习求职"
+      ],
+      "whoPays": "早期不以直接收入为主，价值来自作品集、生态资源和潜在合作。",
+      "firstCustomerPath": "先访谈3位鸿蒙用户或开发者，找到一个真实场景。",
+      "minimumDeliverable": "可演示的鸿蒙应用或智能体原型",
+      "actionPlan3Days": [
+        "确认资格和赛道",
+        "组建2—4人小队",
+        "完成问题定义"
+      ],
+      "actionPlan7Days": [
+        "做出可点击原型",
+        "接入一项鸿蒙能力",
+        "完成路演结构"
+      ],
+      "stopConditions": [
+        "资格不符合",
+        "无法在截止前完成可演示版本"
+      ],
+      "risks": [
+        "报名时间需二次核验",
+        "技术门槛较高"
+      ],
+      "score": 90
+    },
+    {
+      "id": "c3",
+      "slug": "harmonyos-university-ai-2026",
+      "title": "2026 鸿蒙高校创新赛·人工智能创意赛",
+      "summary": "面向高校学生的官方创新赛，由全国高等学校计算机教育研究会主办，华为与浙江大学联合承办相关赛道。",
+      "insight": "对大学生而言，赛事、课程、作品集和求职可以一次串联。",
+      "type": "competition",
+      "domains": [
+        "AI编程",
+        "高校赛事",
+        "鸿蒙"
+      ],
+      "audienceTags": [
+        "在校大学生",
+        "开发者"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://developer.huawei.com/consumer/cn/activity/incentive/C4",
+      "discoverySources": [
+        {
+          "name": "华为开发者联盟",
+          "url": "https://developer.huawei.com/consumer/cn/activity/incentive/C4",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "高校创新赛官方页",
+          "url": "https://developer.huawei.com/consumer/cn/activity/incentive/C4",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "14—30天",
+      "difficulty": 4,
+      "demandEvidence": "官方赛道与主办信息可核验。",
+      "monetizationPaths": [
+        "奖项",
+        "作品集",
+        "实习求职"
+      ],
+      "whoPays": "赛事奖励或未来雇主；不应视作稳定副业。",
+      "firstCustomerPath": "把课题转化成校园真实用户问题，先做5次访谈。",
+      "minimumDeliverable": "AI创意应用原型与答辩材料",
+      "actionPlan3Days": [
+        "确认学校组队规则",
+        "选择校园高频痛点",
+        "确定技术可行性"
+      ],
+      "actionPlan7Days": [
+        "完成原型",
+        "测试5名用户",
+        "形成演示视频"
+      ],
+      "stopConditions": [
+        "无法找到真实用户",
+        "只剩概念没有演示"
+      ],
+      "risks": [
+        "资格与赛程需按官方页更新"
+      ],
+      "score": 89
+    },
+    {
+      "id": "c4",
+      "slug": "tianchi-openclaw-2026",
+      "title": "天池 OpenClaw Security Attack and Defense",
+      "summary": "阿里云天池 AI 大模型安全攻防赛事，官方页面显示材料阶段截至 2026 年 6 月 18 日。",
+      "insight": "今天是关键节点，适合已参赛团队核对材料；新用户更适合收藏后续同类赛事。",
+      "type": "competition",
+      "domains": [
+        "AI安全",
+        "智能体",
+        "算法"
+      ],
+      "audienceTags": [
+        "安全开发者",
+        "算法学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "closing_soon",
+      "officialUrl": "https://tianchi.aliyun.com/competition/entrance/532481/introduction",
+      "discoverySources": [
+        {
+          "name": "阿里云天池",
+          "url": "https://tianchi.aliyun.com/competition/entrance/532481/introduction",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "竞赛官方说明",
+          "url": "https://tianchi.aliyun.com/competition/entrance/532481/introduction",
+          "kind": "official"
+        }
+      ],
+      "deadlineAt": "2026-06-18",
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "赛事周期",
+      "difficulty": 5,
+      "demandEvidence": "赛事页面与阶段时间已核验。",
+      "monetizationPaths": [
+        "比赛奖励",
+        "安全作品集",
+        "求职"
+      ],
+      "whoPays": "赛事主办方或未来雇主。",
+      "firstCustomerPath": "不适合作为即时副业；可把方案沉淀为安全作品集。",
+      "minimumDeliverable": "符合规则的技术材料或方案",
+      "actionPlan3Days": [
+        "核对提交状态",
+        "整理复盘",
+        "沉淀公开可展示内容"
+      ],
+      "actionPlan7Days": [
+        "完善仓库",
+        "写技术复盘",
+        "关注天池后续赛事"
+      ],
+      "stopConditions": [
+        "已错过官方截止",
+        "材料不符合规则"
+      ],
+      "risks": [
+        "高度技术化",
+        "截止状态变化快"
+      ],
+      "score": 88
+    },
+    {
+      "id": "c5",
+      "slug": "jimeng-annecy-2026",
+      "title": "即梦 AI 动画国际峰会与全球作品征集",
+      "summary": "即梦 AI 官方页面宣布将在 2026 年 6 月 23 日于法国昂西国际动画节举办峰会并启动全球作品与项目征集。",
+      "insight": "这是把中国 AI 动画作品放进国际作品集的窗口，先核对征集细则再投入。",
+      "type": "creator_program",
+      "domains": [
+        "AI视频",
+        "动画",
+        "出海"
+      ],
+      "audienceTags": [
+        "动画创作者",
+        "导演",
+        "大学生"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "partially_verified",
+      "officialUrl": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-172-dreamina-weekly-challenge",
+      "discoverySources": [
+        {
+          "name": "即梦 AI 官方页",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-172-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "活动官方说明",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-172-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "publishedAt": "2026-05-12",
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "7—30天",
+      "difficulty": 3,
+      "demandEvidence": "峰会与征集公告可核验；完整截止与授权条款仍需在官方页持续确认。",
+      "monetizationPaths": [
+        "国际作品集",
+        "项目提案",
+        "创作者合作"
+      ],
+      "whoPays": "潜在品牌、制片方或项目合作方。",
+      "firstCustomerPath": "先把一个60秒以内概念短片做成双语项目页。",
+      "minimumDeliverable": "短片样片、英文简介、创作说明",
+      "actionPlan3Days": [
+        "阅读征集说明",
+        "选择可国际理解的主题",
+        "完成故事板"
+      ],
+      "actionPlan7Days": [
+        "完成短片初版",
+        "制作双语字幕",
+        "整理项目资料"
+      ],
+      "stopConditions": [
+        "授权条款不适合",
+        "无法提供原创素材证明"
+      ],
+      "risks": [
+        "国际版权",
+        "征集节点需复核"
+      ],
+      "score": 86
+    },
+    {
+      "id": "c6",
+      "slug": "tencent-cloud-hackathon-hub",
+      "title": "腾讯云黑客松官方入口",
+      "summary": "腾讯云长期聚合黑客松与开发者挑战，适合作为持续监测入口。",
+      "insight": "不要只看一次赛事，建立“每周检查官方活动页”的固定动作。",
+      "type": "event",
+      "domains": [
+        "AI编程",
+        "智能体",
+        "云计算"
+      ],
+      "audienceTags": [
+        "开发者",
+        "高校团队"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://tch.cloud.tencent.com/",
+      "discoverySources": [
+        {
+          "name": "腾讯云黑客松官网",
+          "url": "https://tch.cloud.tencent.com/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "腾讯云黑客松官网",
+          "url": "https://tch.cloud.tencent.com/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "持续关注",
+      "difficulty": 3,
+      "demandEvidence": "官方赛事入口已核验；具体活动以页面为准。",
+      "monetizationPaths": [
+        "赛事奖励",
+        "作品集",
+        "生态合作"
+      ],
+      "whoPays": "主办方奖励或后续合作客户。",
+      "firstCustomerPath": "把比赛作品改造成真实用户可试用的Demo。",
+      "minimumDeliverable": "可演示的AI应用",
+      "actionPlan3Days": [
+        "浏览当前活动",
+        "记录资格和截止",
+        "匹配自己的技能"
+      ],
+      "actionPlan7Days": [
+        "组队",
+        "完成选题",
+        "制作原型"
+      ],
+      "stopConditions": [
+        "无匹配赛道",
+        "无法按期交付"
+      ],
+      "risks": [
+        "活动时效变化"
+      ],
+      "score": 84
+    },
+    {
+      "id": "c7",
+      "slug": "ncss-innovation-platform",
+      "title": "全国大学生创业服务网·创新大赛入口",
+      "summary": "教育系统官方大学生创新创业赛事与资源入口，可查看大赛通知、省市动态、项目和人才信息。",
+      "insight": "大学生应把它作为官方赛事“源头页”，而不是只依赖二手公众号。",
+      "type": "event",
+      "domains": [
+        "高校赛事",
+        "创业",
+        "项目资源"
+      ],
+      "audienceTags": [
+        "大学生",
+        "高校团队"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://cy.ncss.cn/",
+      "discoverySources": [
+        {
+          "name": "全国大学生创业服务网",
+          "url": "https://cy.ncss.cn/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "全国大学生创业服务网",
+          "url": "https://cy.ncss.cn/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "按通知",
+      "difficulty": 2,
+      "demandEvidence": "官方平台与赛事动态可核验。",
+      "monetizationPaths": [
+        "赛事资源",
+        "融资对接",
+        "人才与项目展示"
+      ],
+      "whoPays": "并非直接副业；价值来自赛事、资源和项目连接。",
+      "firstCustomerPath": "先从校内创新创业中心确认校赛时间。",
+      "minimumDeliverable": "项目摘要、团队信息、演示材料",
+      "actionPlan3Days": [
+        "检查省市动态",
+        "联系校内负责老师",
+        "整理资格要求"
+      ],
+      "actionPlan7Days": [
+        "完成项目一页纸",
+        "访谈用户",
+        "准备初版路演"
+      ],
+      "stopConditions": [
+        "错过校内选拔",
+        "项目不符合资格"
+      ],
+      "risks": [
+        "各地区赛程不同"
+      ],
+      "score": 91
+    },
+    {
+      "id": "c8",
+      "slug": "adventurex-2026",
+      "title": "AdventureX 2026 青年黑客松",
+      "summary": "官方页面显示活动将于 2026 年 7 月 22—26 日在杭州举行，面向青年开发者、设计师、创作者和产品人，采用滚动录取。",
+      "insight": "这是适合25岁以下青年把想法、组队、开发和路演压缩到72小时内完成的高密度实践场。",
+      "type": "competition",
+      "domains": [
+        "黑客松",
+        "AI编程",
+        "创业"
+      ],
+      "audienceTags": [
+        "26岁以下",
+        "在校生",
+        "设计师",
+        "开发者"
+      ],
+      "country": "中国",
+      "city": "杭州",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://adventure-x.org/",
+      "discoverySources": [
+        {
+          "name": "AdventureX 2026 官方网站",
+          "url": "https://adventure-x.org/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "AdventureX 2026 官方FAQ与申请说明",
+          "url": "https://adventure-x.org/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "免报名费；额外差旅视个人情况",
+      "timeToValidate": "72小时集中开发",
+      "difficulty": 3,
+      "demandEvidence": "活动日期、地点、参与方式、青年资格与支持资源均可在官方页面核验。",
+      "monetizationPaths": [
+        "奖金与资源",
+        "作品集",
+        "团队与职业连接"
+      ],
+      "whoPays": "活动本身不等于稳定收入；价值来自赛事资源、作品与后续合作。",
+      "firstCustomerPath": "申请材料中展示一个真实做过的项目或清晰的问题洞察。",
+      "minimumDeliverable": "可演示Demo、路演和团队分工",
+      "actionPlan3Days": [
+        "阅读FAQ与申请要求",
+        "整理个人项目证据",
+        "提交申请或完善申请材料"
+      ],
+      "actionPlan7Days": [
+        "准备项目候选方向",
+        "补齐技术/设计短板",
+        "练习3分钟Demo表达"
+      ],
+      "stopConditions": [
+        "无法到场且无线上机制",
+        "申请资格或时间冲突"
+      ],
+      "risks": [
+        "滚动录取，席位有限",
+        "差旅与现场时间成本"
+      ],
+      "score": 96
+    },
+    {
+      "id": "c9",
+      "slug": "baidu-ai-studio-competition-hub",
+      "title": "飞桨 AI Studio 竞赛平台",
+      "summary": "百度飞桨星河社区官方竞赛入口，聚合人工智能、数据和行业赛题，可用于持续发现高校与开发者赛事。",
+      "insight": "适合作为算法和应用型学生的长期赛事源头页，而不是只收藏二手报名文章。",
+      "type": "event",
+      "domains": [
+        "算法",
+        "AI编程",
+        "高校赛事"
+      ],
+      "audienceTags": [
+        "算法学生",
+        "开发者",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://aistudio.baidu.com/competition",
+      "discoverySources": [
+        {
+          "name": "飞桨 AI Studio 竞赛平台",
+          "url": "https://aistudio.baidu.com/competition",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "飞桨星河社区官方竞赛入口",
+          "url": "https://aistudio.baidu.com/competition",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "持续关注",
+      "difficulty": 3,
+      "demandEvidence": "官方竞赛平台与赛题入口可核验；每场比赛的资格和日期需逐条检查。",
+      "monetizationPaths": [
+        "赛事奖励",
+        "算法作品集",
+        "实习求职"
+      ],
+      "whoPays": "赛事主办方或未来雇主。",
+      "firstCustomerPath": "选一场仍开放且有基线方案的比赛，先跑通最小结果。",
+      "minimumDeliverable": "Notebook、基线结果与复盘",
+      "actionPlan3Days": [
+        "筛选当前赛事",
+        "读规则",
+        "跑通基线"
+      ],
+      "actionPlan7Days": [
+        "做一次改进",
+        "记录实验",
+        "形成作品集页面"
+      ],
+      "stopConditions": [
+        "赛题已截止",
+        "算力或数据要求超预算"
+      ],
+      "risks": [
+        "竞赛与真实业务有差异",
+        "规则会更新"
+      ],
+      "score": 88
+    },
+    {
+      "id": "c10",
+      "slug": "modelscope-competition-hub",
+      "title": "魔搭社区竞赛与活动入口",
+      "summary": "ModelScope 魔搭社区官方竞赛页，覆盖模型、智能体、AIGC和开发者挑战。",
+      "insight": "它适合观察国内开源模型生态正在奖励哪些应用方向，并寻找可展示的Demo机会。",
+      "type": "event",
+      "domains": [
+        "开源",
+        "智能体",
+        "AI编程"
+      ],
+      "audienceTags": [
+        "开发者",
+        "高校团队",
+        "AI创作者"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://modelscope.cn/competition",
+      "discoverySources": [
+        {
+          "name": "魔搭社区竞赛页",
+          "url": "https://modelscope.cn/competition",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "ModelScope 官方竞赛与活动",
+          "url": "https://modelscope.cn/competition",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "持续关注",
+      "difficulty": 3,
+      "demandEvidence": "官方竞赛入口可核验；具体赛事状态需进入详情页确认。",
+      "monetizationPaths": [
+        "赛事奖励",
+        "开源影响力",
+        "作品集"
+      ],
+      "whoPays": "赛事主办方或后续合作方。",
+      "firstCustomerPath": "把参赛Demo公开成可访问应用，邀请真实用户体验。",
+      "minimumDeliverable": "Demo、仓库与项目说明",
+      "actionPlan3Days": [
+        "查看开放赛事",
+        "匹配技术栈",
+        "确定可完成范围"
+      ],
+      "actionPlan7Days": [
+        "上线原型",
+        "收集反馈",
+        "准备提交材料"
+      ],
+      "stopConditions": [
+        "赛事已结束",
+        "模型/算力许可证不适合"
+      ],
+      "risks": [
+        "开源许可证",
+        "算力成本",
+        "活动时效"
+      ],
+      "score": 87
+    },
+    {
+      "id": "c11",
+      "slug": "bilibili-ai-creator-hub",
+      "title": "B站 AI 创作大赛官方活动页",
+      "summary": "B站官方活动页可作为AI视频、动画和内容创作赛事的发现入口；当前页面的完整日期与投稿规则需要在支持的客户端或活动页内再次核验。",
+      "insight": "平台比赛最值得沉淀的是作品、账号和观众反馈，不要只为一次奖励做无法复用的内容。",
+      "type": "creator_program",
+      "domains": [
+        "AI视频",
+        "动画",
+        "内容创作"
+      ],
+      "audienceTags": [
+        "UP主",
+        "视频创作者",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "pending_verification",
+      "officialUrl": "https://www.bilibili.com/blackboard/era/9qbSEy39uMMmRAF9.html",
+      "discoverySources": [
+        {
+          "name": "B站 AI 创作大赛活动页",
+          "url": "https://www.bilibili.com/blackboard/era/9qbSEy39uMMmRAF9.html",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "B站官方活动页；规则待在客户端复核",
+          "url": "https://www.bilibili.com/blackboard/era/9qbSEy39uMMmRAF9.html",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "3—14天",
+      "difficulty": 2,
+      "demandEvidence": "官方活动入口存在；当前报名状态、奖金与版权条款尚未完成网页端核验。",
+      "monetizationPaths": [
+        "作品曝光",
+        "账号成长",
+        "品牌合作样片"
+      ],
+      "whoPays": "平台奖励或后续品牌客户；不代表稳定收入。",
+      "firstCustomerPath": "把参赛内容做成可持续的系列，而不是一次性投稿。",
+      "minimumDeliverable": "完整投稿视频、封面和制作说明",
+      "actionPlan3Days": [
+        "在官方客户端核对规则",
+        "确认版权与投稿标签",
+        "制作10秒测试"
+      ],
+      "actionPlan7Days": [
+        "完成作品",
+        "发布",
+        "记录播放和互动反馈"
+      ],
+      "stopConditions": [
+        "活动已结束",
+        "授权条款不适合"
+      ],
+      "risks": [
+        "规则待复核",
+        "素材版权",
+        "平台内容政策"
+      ],
+      "score": 79
+    },
+    {
+      "id": "c12",
+      "slug": "kling-ai-activity-zone",
+      "title": "可灵 AI 全球创作活动区",
+      "summary": "可灵 AI 官方活动区聚合创作挑战和赛事，适合AI视频创作者持续检查新主题、积分和奖励。",
+      "insight": "把活动主题当作练习题和作品集题目，先建立稳定工作流，再判断是否投入更多额度。",
+      "type": "creator_program",
+      "domains": [
+        "AI视频",
+        "AI设计",
+        "出海"
+      ],
+      "audienceTags": [
+        "视频创作者",
+        "设计师"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+      "discoverySources": [
+        {
+          "name": "Kling AI Events",
+          "url": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "可灵 AI 官方活动区",
+          "url": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "3—14天",
+      "difficulty": 2,
+      "demandEvidence": "官方活动区与创作挑战入口可核验；具体赛事规则需逐条打开。",
+      "monetizationPaths": [
+        "奖励",
+        "作品集",
+        "海外展示"
+      ],
+      "whoPays": "活动主办方或后续内容客户。",
+      "firstCustomerPath": "选择一个活动主题，做成同时适合品牌样片的作品。",
+      "minimumDeliverable": "AI短片、提示词/流程说明",
+      "actionPlan3Days": [
+        "筛选开放活动",
+        "核对规则",
+        "完成风格测试"
+      ],
+      "actionPlan7Days": [
+        "完成并提交",
+        "制作英文说明",
+        "复盘成本"
+      ],
+      "stopConditions": [
+        "活动已结束",
+        "额度成本过高"
+      ],
+      "risks": [
+        "商用授权",
+        "活动地区限制"
+      ],
+      "score": 84
+    },
+    {
+      "id": "c13",
+      "slug": "miccai-gave2-2026",
+      "title": "MICCAI 2026 GAVE2 医学影像挑战",
+      "summary": "飞桨 AI Studio 官方竞赛详情页展示的国际眼科医学影像挑战，适合医学AI和计算机视觉方向团队关注。",
+      "insight": "专业赛题对普通副业不友好，但对科研、保研和算法作品集价值更高。",
+      "type": "competition",
+      "domains": [
+        "算法",
+        "医学AI",
+        "计算机视觉"
+      ],
+      "audienceTags": [
+        "研究生",
+        "算法学生",
+        "医学AI团队"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "partially_verified",
+      "officialUrl": "https://aistudio.baidu.com/competition/detail/1463",
+      "discoverySources": [
+        {
+          "name": "飞桨 AI Studio 赛事详情",
+          "url": "https://aistudio.baidu.com/competition/detail/1463",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "GAVE2 挑战官方详情入口",
+          "url": "https://aistudio.baidu.com/competition/detail/1463",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "赛事周期",
+      "difficulty": 5,
+      "demandEvidence": "赛事主题和主办背景可核验；报名与提交日期需在详情页实时确认。",
+      "monetizationPaths": [
+        "科研成果",
+        "比赛成绩",
+        "算法求职"
+      ],
+      "whoPays": "赛事奖励或未来科研/就业机会，不是即时副业。",
+      "firstCustomerPath": "先联系导师或同方向同学，判断数据、算力和医学知识是否匹配。",
+      "minimumDeliverable": "可复现实验、模型结果与技术报告",
+      "actionPlan3Days": [
+        "核对资格与日期",
+        "下载数据说明",
+        "复现基线"
+      ],
+      "actionPlan7Days": [
+        "完成首次实验",
+        "记录指标",
+        "判断是否继续"
+      ],
+      "stopConditions": [
+        "缺乏数据权限或医学知识",
+        "算力超预算"
+      ],
+      "risks": [
+        "医学数据合规",
+        "科研诚信"
+      ],
+      "score": 82
+    },
+    {
+      "id": "c14",
+      "slug": "smart-car-baidu-2026",
+      "title": "2026 全国大学生智能汽车竞赛·百度智慧交通组",
+      "summary": "飞桨 AI Studio 官方页面展示的2026智能汽车竞赛赛项，包含线上练习、线下分区赛和全国总决赛。",
+      "insight": "适合把视觉、大模型、机器人和工程协作整合为一份强作品集。",
+      "type": "competition",
+      "domains": [
+        "机器人",
+        "计算机视觉",
+        "高校赛事"
+      ],
+      "audienceTags": [
+        "大学生",
+        "工程团队",
+        "算法学生"
+      ],
+      "country": "中国",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://aistudio.baidu.com/competition/detail/1484",
+      "discoverySources": [
+        {
+          "name": "飞桨 AI Studio 竞赛详情",
+          "url": "https://aistudio.baidu.com/competition/detail/1484",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "2026 百度智慧交通组官方赛题页",
+          "url": "https://aistudio.baidu.com/competition/detail/1484",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "中—高，依赖学校设备",
+      "timeToValidate": "赛事周期",
+      "difficulty": 5,
+      "demandEvidence": "2026赛制与阶段可在官方页核验。",
+      "monetizationPaths": [
+        "赛事成绩",
+        "工程作品集",
+        "校招"
+      ],
+      "whoPays": "赛事奖励或未来雇主。",
+      "firstCustomerPath": "优先通过学校实验室或参赛队伍获取设备与指导。",
+      "minimumDeliverable": "可运行系统、技术报告和现场表现",
+      "actionPlan3Days": [
+        "联系校内队伍",
+        "核对设备条件",
+        "拆解赛题"
+      ],
+      "actionPlan7Days": [
+        "跑通基础模块",
+        "建立测试记录",
+        "明确分工"
+      ],
+      "stopConditions": [
+        "无设备与团队支持",
+        "错过校内报名"
+      ],
+      "risks": [
+        "硬件成本",
+        "现场稳定性",
+        "赛程需复核"
+      ],
+      "score": 85
+    }
+  ]
+}

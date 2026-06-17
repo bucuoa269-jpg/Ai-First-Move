@@ -1,0 +1,2 @@
+import SectionPage from '@/components/SectionPage'; import { opportunities } from '@/lib/data';
+export default function Page(){ return <SectionPage eyebrow="时间差与机会迁移" title="不是照搬，而是重新验证一遍" description="观察海外成熟市场、一线城市和科技行业中已经验证的模式，再分析目标市场的需求信号、支付、渠道、文化和履约差异。" items={opportunities.filter(x=>x.originalMarket || x.slug.includes('city-ai') || x.slug.includes('competition-calendar'))} note="‘原市场成立’不代表‘目标市场成立’。每张卡都必须通过本地访谈、预售或真实使用重新验证。"/>; }

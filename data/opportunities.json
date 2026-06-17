@@ -1,0 +1,2779 @@
+{
+  "generatedAt": "2026-06-18",
+  "count": 40,
+  "records": [
+    {
+      "id": "c1",
+      "slug": "douyin-ai-creator-2026",
+      "title": "抖音 AI 创作大赛（即梦 AI 官方活动）",
+      "summary": "面向 AI 创作者的官方投稿活动，当前页面显示投稿窗口持续至 2026 年 8 月 20 日。",
+      "insight": "适合把比赛当作作品集、平台曝光和客户样片，而不是只盯奖金。",
+      "type": "competition",
+      "domains": [
+        "AI视频",
+        "AI设计",
+        "内容创作"
+      ],
+      "audienceTags": [
+        "大学生",
+        "视频创作者",
+        "设计师"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "verified",
+      "officialUrl": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-289-dreamina-weekly-challenge",
+      "discoverySources": [
+        {
+          "name": "即梦 AI 活动页",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-289-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "即梦 AI 官方活动详情",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-289-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "publishedAt": "2026-06-09",
+      "deadlineAt": "2026-08-20",
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "3—7天完成首支作品",
+      "difficulty": 2,
+      "demandEvidence": "官方活动页面与投稿入口已核验。",
+      "monetizationPaths": [
+        "作品集",
+        "平台曝光",
+        "品牌样片"
+      ],
+      "whoPays": "比赛本身不等于稳定收入；后续可能由品牌、商家或内容客户付费。",
+      "firstCustomerPath": "把参赛作品整理成前后对比案例，定向联系3家本地品牌。",
+      "minimumDeliverable": "15—30秒完整AI短片与制作说明",
+      "actionPlan3Days": [
+        "读完规则与版权条款",
+        "确定一个可完成的创意",
+        "做出10秒风格测试"
+      ],
+      "actionPlan7Days": [
+        "完成作品",
+        "提交活动",
+        "整理作品集页面",
+        "联系潜在客户测试需求"
+      ],
+      "stopConditions": [
+        "无法满足授权要求",
+        "连续三版仍无法稳定生成主体",
+        "工具成本超出预算"
+      ],
+      "risks": [
+        "版权和肖像授权",
+        "活动结果不等同于商业需求"
+      ],
+      "score": 93
+    },
+    {
+      "id": "c2",
+      "slug": "harmonyos-geek-2026",
+      "title": "2026 HarmonyOS 创新赛·极客赛道",
+      "summary": "华为开发者联盟官方赛事，鼓励基于 HarmonyOS AI、全场景能力开发应用、游戏、元服务或小艺智能体。",
+      "insight": "适合用一场官方赛事完成鸿蒙作品集和团队协作验证。",
+      "type": "competition",
+      "domains": [
+        "AI编程",
+        "鸿蒙",
+        "智能体"
+      ],
+      "audienceTags": [
+        "开发者",
+        "大学生",
+        "产品经理"
+      ],
+      "country": "中国",
+      "city": "东莞",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101773710117484023",
+      "discoverySources": [
+        {
+          "name": "华为开发者联盟",
+          "url": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101773710117484023",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "赛事官方详情",
+          "url": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101773710117484023",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低成本",
+      "timeToValidate": "7—30天",
+      "difficulty": 4,
+      "demandEvidence": "官方赛事与技术方向可核验；具体报名节点请以页面实时状态为准。",
+      "monetizationPaths": [
+        "作品集",
+        "开发者生态",
+        "实习求职"
+      ],
+      "whoPays": "早期不以直接收入为主，价值来自作品集、生态资源和潜在合作。",
+      "firstCustomerPath": "先访谈3位鸿蒙用户或开发者，找到一个真实场景。",
+      "minimumDeliverable": "可演示的鸿蒙应用或智能体原型",
+      "actionPlan3Days": [
+        "确认资格和赛道",
+        "组建2—4人小队",
+        "完成问题定义"
+      ],
+      "actionPlan7Days": [
+        "做出可点击原型",
+        "接入一项鸿蒙能力",
+        "完成路演结构"
+      ],
+      "stopConditions": [
+        "资格不符合",
+        "无法在截止前完成可演示版本"
+      ],
+      "risks": [
+        "报名时间需二次核验",
+        "技术门槛较高"
+      ],
+      "score": 90
+    },
+    {
+      "id": "c3",
+      "slug": "harmonyos-university-ai-2026",
+      "title": "2026 鸿蒙高校创新赛·人工智能创意赛",
+      "summary": "面向高校学生的官方创新赛，由全国高等学校计算机教育研究会主办，华为与浙江大学联合承办相关赛道。",
+      "insight": "对大学生而言，赛事、课程、作品集和求职可以一次串联。",
+      "type": "competition",
+      "domains": [
+        "AI编程",
+        "高校赛事",
+        "鸿蒙"
+      ],
+      "audienceTags": [
+        "在校大学生",
+        "开发者"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://developer.huawei.com/consumer/cn/activity/incentive/C4",
+      "discoverySources": [
+        {
+          "name": "华为开发者联盟",
+          "url": "https://developer.huawei.com/consumer/cn/activity/incentive/C4",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "高校创新赛官方页",
+          "url": "https://developer.huawei.com/consumer/cn/activity/incentive/C4",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "14—30天",
+      "difficulty": 4,
+      "demandEvidence": "官方赛道与主办信息可核验。",
+      "monetizationPaths": [
+        "奖项",
+        "作品集",
+        "实习求职"
+      ],
+      "whoPays": "赛事奖励或未来雇主；不应视作稳定副业。",
+      "firstCustomerPath": "把课题转化成校园真实用户问题，先做5次访谈。",
+      "minimumDeliverable": "AI创意应用原型与答辩材料",
+      "actionPlan3Days": [
+        "确认学校组队规则",
+        "选择校园高频痛点",
+        "确定技术可行性"
+      ],
+      "actionPlan7Days": [
+        "完成原型",
+        "测试5名用户",
+        "形成演示视频"
+      ],
+      "stopConditions": [
+        "无法找到真实用户",
+        "只剩概念没有演示"
+      ],
+      "risks": [
+        "资格与赛程需按官方页更新"
+      ],
+      "score": 89
+    },
+    {
+      "id": "c4",
+      "slug": "tianchi-openclaw-2026",
+      "title": "天池 OpenClaw Security Attack and Defense",
+      "summary": "阿里云天池 AI 大模型安全攻防赛事，官方页面显示材料阶段截至 2026 年 6 月 18 日。",
+      "insight": "今天是关键节点，适合已参赛团队核对材料；新用户更适合收藏后续同类赛事。",
+      "type": "competition",
+      "domains": [
+        "AI安全",
+        "智能体",
+        "算法"
+      ],
+      "audienceTags": [
+        "安全开发者",
+        "算法学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "closing_soon",
+      "officialUrl": "https://tianchi.aliyun.com/competition/entrance/532481/introduction",
+      "discoverySources": [
+        {
+          "name": "阿里云天池",
+          "url": "https://tianchi.aliyun.com/competition/entrance/532481/introduction",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "竞赛官方说明",
+          "url": "https://tianchi.aliyun.com/competition/entrance/532481/introduction",
+          "kind": "official"
+        }
+      ],
+      "deadlineAt": "2026-06-18",
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "赛事周期",
+      "difficulty": 5,
+      "demandEvidence": "赛事页面与阶段时间已核验。",
+      "monetizationPaths": [
+        "比赛奖励",
+        "安全作品集",
+        "求职"
+      ],
+      "whoPays": "赛事主办方或未来雇主。",
+      "firstCustomerPath": "不适合作为即时副业；可把方案沉淀为安全作品集。",
+      "minimumDeliverable": "符合规则的技术材料或方案",
+      "actionPlan3Days": [
+        "核对提交状态",
+        "整理复盘",
+        "沉淀公开可展示内容"
+      ],
+      "actionPlan7Days": [
+        "完善仓库",
+        "写技术复盘",
+        "关注天池后续赛事"
+      ],
+      "stopConditions": [
+        "已错过官方截止",
+        "材料不符合规则"
+      ],
+      "risks": [
+        "高度技术化",
+        "截止状态变化快"
+      ],
+      "score": 88
+    },
+    {
+      "id": "c5",
+      "slug": "jimeng-annecy-2026",
+      "title": "即梦 AI 动画国际峰会与全球作品征集",
+      "summary": "即梦 AI 官方页面宣布将在 2026 年 6 月 23 日于法国昂西国际动画节举办峰会并启动全球作品与项目征集。",
+      "insight": "这是把中国 AI 动画作品放进国际作品集的窗口，先核对征集细则再投入。",
+      "type": "creator_program",
+      "domains": [
+        "AI视频",
+        "动画",
+        "出海"
+      ],
+      "audienceTags": [
+        "动画创作者",
+        "导演",
+        "大学生"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "partially_verified",
+      "officialUrl": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-172-dreamina-weekly-challenge",
+      "discoverySources": [
+        {
+          "name": "即梦 AI 官方页",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-172-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "活动官方说明",
+          "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-172-dreamina-weekly-challenge",
+          "kind": "official"
+        }
+      ],
+      "publishedAt": "2026-05-12",
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "7—30天",
+      "difficulty": 3,
+      "demandEvidence": "峰会与征集公告可核验；完整截止与授权条款仍需在官方页持续确认。",
+      "monetizationPaths": [
+        "国际作品集",
+        "项目提案",
+        "创作者合作"
+      ],
+      "whoPays": "潜在品牌、制片方或项目合作方。",
+      "firstCustomerPath": "先把一个60秒以内概念短片做成双语项目页。",
+      "minimumDeliverable": "短片样片、英文简介、创作说明",
+      "actionPlan3Days": [
+        "阅读征集说明",
+        "选择可国际理解的主题",
+        "完成故事板"
+      ],
+      "actionPlan7Days": [
+        "完成短片初版",
+        "制作双语字幕",
+        "整理项目资料"
+      ],
+      "stopConditions": [
+        "授权条款不适合",
+        "无法提供原创素材证明"
+      ],
+      "risks": [
+        "国际版权",
+        "征集节点需复核"
+      ],
+      "score": 86
+    },
+    {
+      "id": "c6",
+      "slug": "tencent-cloud-hackathon-hub",
+      "title": "腾讯云黑客松官方入口",
+      "summary": "腾讯云长期聚合黑客松与开发者挑战，适合作为持续监测入口。",
+      "insight": "不要只看一次赛事，建立“每周检查官方活动页”的固定动作。",
+      "type": "event",
+      "domains": [
+        "AI编程",
+        "智能体",
+        "云计算"
+      ],
+      "audienceTags": [
+        "开发者",
+        "高校团队"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://tch.cloud.tencent.com/",
+      "discoverySources": [
+        {
+          "name": "腾讯云黑客松官网",
+          "url": "https://tch.cloud.tencent.com/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "腾讯云黑客松官网",
+          "url": "https://tch.cloud.tencent.com/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "持续关注",
+      "difficulty": 3,
+      "demandEvidence": "官方赛事入口已核验；具体活动以页面为准。",
+      "monetizationPaths": [
+        "赛事奖励",
+        "作品集",
+        "生态合作"
+      ],
+      "whoPays": "主办方奖励或后续合作客户。",
+      "firstCustomerPath": "把比赛作品改造成真实用户可试用的Demo。",
+      "minimumDeliverable": "可演示的AI应用",
+      "actionPlan3Days": [
+        "浏览当前活动",
+        "记录资格和截止",
+        "匹配自己的技能"
+      ],
+      "actionPlan7Days": [
+        "组队",
+        "完成选题",
+        "制作原型"
+      ],
+      "stopConditions": [
+        "无匹配赛道",
+        "无法按期交付"
+      ],
+      "risks": [
+        "活动时效变化"
+      ],
+      "score": 84
+    },
+    {
+      "id": "c7",
+      "slug": "ncss-innovation-platform",
+      "title": "全国大学生创业服务网·创新大赛入口",
+      "summary": "教育系统官方大学生创新创业赛事与资源入口，可查看大赛通知、省市动态、项目和人才信息。",
+      "insight": "大学生应把它作为官方赛事“源头页”，而不是只依赖二手公众号。",
+      "type": "event",
+      "domains": [
+        "高校赛事",
+        "创业",
+        "项目资源"
+      ],
+      "audienceTags": [
+        "大学生",
+        "高校团队"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://cy.ncss.cn/",
+      "discoverySources": [
+        {
+          "name": "全国大学生创业服务网",
+          "url": "https://cy.ncss.cn/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "全国大学生创业服务网",
+          "url": "https://cy.ncss.cn/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "按通知",
+      "difficulty": 2,
+      "demandEvidence": "官方平台与赛事动态可核验。",
+      "monetizationPaths": [
+        "赛事资源",
+        "融资对接",
+        "人才与项目展示"
+      ],
+      "whoPays": "并非直接副业；价值来自赛事、资源和项目连接。",
+      "firstCustomerPath": "先从校内创新创业中心确认校赛时间。",
+      "minimumDeliverable": "项目摘要、团队信息、演示材料",
+      "actionPlan3Days": [
+        "检查省市动态",
+        "联系校内负责老师",
+        "整理资格要求"
+      ],
+      "actionPlan7Days": [
+        "完成项目一页纸",
+        "访谈用户",
+        "准备初版路演"
+      ],
+      "stopConditions": [
+        "错过校内选拔",
+        "项目不符合资格"
+      ],
+      "risks": [
+        "各地区赛程不同"
+      ],
+      "score": 91
+    },
+    {
+      "id": "j1",
+      "slug": "baidu-2027-campus",
+      "title": "百度 2027 届校园招聘",
+      "summary": "百度官方校园招聘页面显示，面向 2026 年 9 月至 2027 年 8 月毕业的在校生，开放技术、产品、政企、销售和综合岗位。",
+      "insight": "先按岗位关键词反推作品集，而不是海投后再补能力。",
+      "type": "job",
+      "domains": [
+        "AI求职",
+        "产品",
+        "技术"
+      ],
+      "audienceTags": [
+        "2027届",
+        "在校生"
+      ],
+      "country": "中国",
+      "city": "北京",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "closing_soon",
+      "officialUrl": "https://talent.baidu.com/jobs/",
+      "discoverySources": [
+        {
+          "name": "百度校园招聘",
+          "url": "https://talent.baidu.com/jobs/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "百度官方招聘平台",
+          "url": "https://talent.baidu.com/jobs/",
+          "kind": "official"
+        }
+      ],
+      "deadlineAt": "2026-06-30",
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "1—7天完成投递",
+      "difficulty": 3,
+      "demandEvidence": "官方页面显示招聘对象、岗位类别与流程。",
+      "monetizationPaths": [
+        "实习与全职工作"
+      ],
+      "whoPays": "雇主。",
+      "firstCustomerPath": "求职场景对应的是第一份面试：先投最匹配的3个岗位。",
+      "minimumDeliverable": "一页简历、岗位定制项目集、可演示作品",
+      "actionPlan3Days": [
+        "筛选10个岗位关键词",
+        "重写简历顶部",
+        "准备一个AI项目说明"
+      ],
+      "actionPlan7Days": [
+        "完成3—8个高匹配投递",
+        "模拟面试",
+        "补齐作品集"
+      ],
+      "stopConditions": [
+        "毕业时间不符合",
+        "岗位已关闭"
+      ],
+      "risks": [
+        "具体岗位随时变化",
+        "避免非官方收费内推"
+      ],
+      "score": 94
+    },
+    {
+      "id": "j2",
+      "slug": "baidu-daily-internship",
+      "title": "百度日常实习岗位池",
+      "summary": "百度官方页面说明日常实习全年开放且不限毕业时间，具体职位需在官方岗位库实时筛选。",
+      "insight": "适合用“城市 + AI关键词 + 日常实习”每周固定检索。",
+      "type": "job",
+      "domains": [
+        "AI求职",
+        "实习"
+      ],
+      "audienceTags": [
+        "在校生",
+        "转行青年"
+      ],
+      "country": "中国",
+      "city": "北京",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://talent.baidu.com/jobs/list",
+      "discoverySources": [
+        {
+          "name": "百度职位列表",
+          "url": "https://talent.baidu.com/jobs/list",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "百度校园招聘说明",
+          "url": "https://talent.baidu.com/jobs/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "每周检索",
+      "difficulty": 2,
+      "demandEvidence": "官方招聘说明与岗位入口可核验。",
+      "monetizationPaths": [
+        "实习工资",
+        "转正机会"
+      ],
+      "whoPays": "雇主。",
+      "firstCustomerPath": "把目标改成拿到第一次面试，而不是一次解决职业问题。",
+      "minimumDeliverable": "岗位匹配简历与一个可演示项目",
+      "actionPlan3Days": [
+        "设定岗位关键词",
+        "筛选5个岗位",
+        "定制简历"
+      ],
+      "actionPlan7Days": [
+        "投递并记录",
+        "找同学模拟面试",
+        "复盘反馈"
+      ],
+      "stopConditions": [
+        "岗位关闭",
+        "无法满足到岗时长"
+      ],
+      "risks": [
+        "岗位时效很短"
+      ],
+      "score": 91
+    },
+    {
+      "id": "j3",
+      "slug": "bytedance-campus-ai",
+      "title": "字节跳动校园招聘职位库",
+      "summary": "字节跳动官方校招平台支持按城市与职位搜索，并设置 Seed 大模型人才等技术项目入口。",
+      "insight": "内容、产品、设计和技术背景都可以围绕真实产品做一份“AI改进提案”。",
+      "type": "job",
+      "domains": [
+        "AI求职",
+        "大模型",
+        "内容平台"
+      ],
+      "audienceTags": [
+        "应届生",
+        "实习生"
+      ],
+      "country": "中国",
+      "city": "北京",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://jobs.bytedance.com/campus",
+      "discoverySources": [
+        {
+          "name": "字节跳动校园招聘",
+          "url": "https://jobs.bytedance.com/campus",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "字节跳动招聘官网",
+          "url": "https://jobs.bytedance.com/campus",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "1—7天",
+      "difficulty": 4,
+      "demandEvidence": "官方职位库与人才项目入口已核验。",
+      "monetizationPaths": [
+        "实习与全职工作"
+      ],
+      "whoPays": "雇主。",
+      "firstCustomerPath": "选一个真实产品，做3页AI功能改进提案。",
+      "minimumDeliverable": "定制简历、作品集、岗位提案",
+      "actionPlan3Days": [
+        "筛选岗位",
+        "分析JD关键词",
+        "制作案例页"
+      ],
+      "actionPlan7Days": [
+        "完成投递",
+        "练习项目讲述",
+        "记录反馈"
+      ],
+      "stopConditions": [
+        "资格不符",
+        "岗位关闭"
+      ],
+      "risks": [
+        "岗位实时变化"
+      ],
+      "score": 90
+    },
+    {
+      "id": "j4",
+      "slug": "alibaba-2027-internship",
+      "title": "阿里巴巴 2027 届实习生与日常实习",
+      "summary": "阿里巴巴官方校招页面显示 27 届实习面向 2026 年 11 月至 2027 年 10 月毕业生，并提供研究型与日常实习入口。",
+      "insight": "杭州、北京等城市的AI与业务结合岗位，适合用项目结果证明能力。",
+      "type": "job",
+      "domains": [
+        "AI求职",
+        "电商",
+        "云计算"
+      ],
+      "audienceTags": [
+        "2027届",
+        "在校生"
+      ],
+      "country": "中国",
+      "city": "杭州",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://campus-talent.alibaba.com/",
+      "discoverySources": [
+        {
+          "name": "阿里巴巴校园招聘",
+          "url": "https://campus-talent.alibaba.com/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "阿里巴巴官方校招页",
+          "url": "https://campus-talent.alibaba.com/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "1—7天",
+      "difficulty": 4,
+      "demandEvidence": "官方招聘对象与项目类型可核验。",
+      "monetizationPaths": [
+        "实习与全职工作"
+      ],
+      "whoPays": "雇主。",
+      "firstCustomerPath": "围绕电商、云或AI应用做一份可量化项目案例。",
+      "minimumDeliverable": "简历与项目作品集",
+      "actionPlan3Days": [
+        "筛选方向",
+        "匹配城市",
+        "改写项目成果"
+      ],
+      "actionPlan7Days": [
+        "投递",
+        "模拟面试",
+        "补技术或业务短板"
+      ],
+      "stopConditions": [
+        "毕业时间不符",
+        "岗位已关闭"
+      ],
+      "risks": [
+        "岗位随页面更新"
+      ],
+      "score": 89
+    },
+    {
+      "id": "j5",
+      "slug": "huawei-internship",
+      "title": "华为校园与实习生招聘入口",
+      "summary": "华为官方招聘平台提供应届生、实习生、留学生和海外本地招聘入口。",
+      "insight": "硬件、软件、云、AI与生态岗位适合用“工程结果 + 场景理解”组合展示。",
+      "type": "job",
+      "domains": [
+        "AI求职",
+        "工程",
+        "鸿蒙"
+      ],
+      "audienceTags": [
+        "在校生",
+        "应届生"
+      ],
+      "country": "中国",
+      "city": "深圳",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://career.huawei.com/cn/campus-recruitment",
+      "discoverySources": [
+        {
+          "name": "华为校园招聘",
+          "url": "https://career.huawei.com/cn/campus-recruitment",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "华为招聘官网",
+          "url": "https://career.huawei.com/cn/campus-recruitment",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "1—7天",
+      "difficulty": 4,
+      "demandEvidence": "官方招聘入口可核验；具体职位需实时筛选。",
+      "monetizationPaths": [
+        "实习与全职工作"
+      ],
+      "whoPays": "雇主。",
+      "firstCustomerPath": "选择一个岗位族，制作一份工程型项目证明。",
+      "minimumDeliverable": "岗位定制简历与项目演示",
+      "actionPlan3Days": [
+        "查看职位",
+        "拆解要求",
+        "补一页项目证据"
+      ],
+      "actionPlan7Days": [
+        "投递",
+        "复盘笔试知识",
+        "模拟面试"
+      ],
+      "stopConditions": [
+        "资格不符",
+        "岗位关闭"
+      ],
+      "risks": [
+        "具体岗位需要二次确认"
+      ],
+      "score": 88
+    },
+    {
+      "id": "j6",
+      "slug": "tencent-internship",
+      "title": "腾讯校招·实习岗位入口",
+      "summary": "腾讯官方校招页面提供实习生和应届岗位检索与投递入口。",
+      "insight": "游戏、内容、社交与云方向都适合用产品体验和项目复盘建立差异。",
+      "type": "job",
+      "domains": [
+        "AI求职",
+        "游戏",
+        "云计算"
+      ],
+      "audienceTags": [
+        "在校生",
+        "应届生"
+      ],
+      "country": "中国",
+      "city": "深圳",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://join.qq.com/post.html?query=p_2",
+      "discoverySources": [
+        {
+          "name": "腾讯校招岗位投递",
+          "url": "https://join.qq.com/post.html?query=p_2",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "腾讯校招",
+          "url": "https://join.qq.com/post.html?query=p_2",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "1—7天",
+      "difficulty": 4,
+      "demandEvidence": "官方投递入口可核验。",
+      "monetizationPaths": [
+        "实习与全职工作"
+      ],
+      "whoPays": "雇主。",
+      "firstCustomerPath": "先拿到一次面试反馈，再调整岗位范围。",
+      "minimumDeliverable": "岗位定制简历与项目集",
+      "actionPlan3Days": [
+        "筛选岗位",
+        "对齐技能",
+        "完成投递材料"
+      ],
+      "actionPlan7Days": [
+        "投递",
+        "准备项目问答",
+        "复盘"
+      ],
+      "stopConditions": [
+        "岗位关闭",
+        "到岗条件不符"
+      ],
+      "risks": [
+        "时效变化快"
+      ],
+      "score": 88
+    },
+    {
+      "id": "g1",
+      "slug": "github-student-pack",
+      "title": "GitHub Student Developer Pack",
+      "summary": "通过学生身份认证，可申请开发、云服务、AI编码和学习工具资源。",
+      "insight": "这是大学生做AI项目最直接的成本优势之一：先拿资源，再做作品。",
+      "type": "global_case",
+      "domains": [
+        "AI编程",
+        "学生资源",
+        "出海"
+      ],
+      "audienceTags": [
+        "大学生",
+        "开发者"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://github.com/education/students",
+      "discoverySources": [
+        {
+          "name": "GitHub Education",
+          "url": "https://github.com/education/students",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "GitHub Student Developer Pack",
+          "url": "https://github.com/education/students",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "1天申请",
+      "difficulty": 1,
+      "demandEvidence": "官方学生资格和资源说明可核验。",
+      "monetizationPaths": [
+        "降低开发成本",
+        "构建作品集"
+      ],
+      "whoPays": "该资源不直接付费给用户；价值是降低工具成本。",
+      "firstCustomerPath": "用资源上线一个真实可访问的Demo，再邀请10名用户测试。",
+      "minimumDeliverable": "公开项目与可访问演示",
+      "actionPlan3Days": [
+        "准备学生证明",
+        "申请认证",
+        "选择一个项目"
+      ],
+      "actionPlan7Days": [
+        "完成MVP",
+        "部署",
+        "收集反馈"
+      ],
+      "stopConditions": [
+        "不符合学生资格"
+      ],
+      "risks": [
+        "资格审核",
+        "工具权益会变化"
+      ],
+      "score": 95
+    },
+    {
+      "id": "g2",
+      "slug": "github-campus-expert",
+      "title": "GitHub Campus Experts",
+      "summary": "面向校园开发者组织者的全球项目，通常需要先完成 Student Developer Pack 认证。",
+      "insight": "适合想做校园技术社区、黑客松和开发者影响力的学生。",
+      "type": "global_case",
+      "domains": [
+        "社区",
+        "开发者",
+        "校园"
+      ],
+      "audienceTags": [
+        "学生组织者",
+        "开发者"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://github.com/education/students/campus-expert",
+      "discoverySources": [
+        {
+          "name": "GitHub Education",
+          "url": "https://github.com/education/students/campus-expert",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "Campus Experts 官方页",
+          "url": "https://github.com/education/students/campus-expert",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "持续申请",
+      "difficulty": 3,
+      "demandEvidence": "官方项目说明可核验。",
+      "monetizationPaths": [
+        "社区影响力",
+        "作品集",
+        "职业机会"
+      ],
+      "whoPays": "不是直接收入项目。",
+      "firstCustomerPath": "先在校内组织一次10—30人的AI工具工作坊。",
+      "minimumDeliverable": "社区活动记录与组织方案",
+      "actionPlan3Days": [
+        "确认资格",
+        "设计一次活动",
+        "招募首批同学"
+      ],
+      "actionPlan7Days": [
+        "举办活动",
+        "收集反馈",
+        "整理复盘"
+      ],
+      "stopConditions": [
+        "无法持续组织",
+        "资格不符"
+      ],
+      "risks": [
+        "申请周期和名额变化"
+      ],
+      "score": 86
+    },
+    {
+      "id": "g3",
+      "slug": "huggingface-spaces",
+      "title": "Hugging Face Spaces 应用展示平台",
+      "summary": "可用于发现、运行和展示机器学习应用，适合把模型或AI工具变成可分享Demo。",
+      "insight": "海外成熟模式的关键不是“模型更强”，而是让任何人一键体验。",
+      "type": "global_case",
+      "domains": [
+        "AI编程",
+        "开源",
+        "出海"
+      ],
+      "audienceTags": [
+        "开发者",
+        "算法学生"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://huggingface.co/spaces",
+      "discoverySources": [
+        {
+          "name": "Hugging Face Spaces",
+          "url": "https://huggingface.co/spaces",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "Hugging Face Spaces",
+          "url": "https://huggingface.co/spaces",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "1—7天",
+      "difficulty": 3,
+      "demandEvidence": "官方平台可核验。",
+      "monetizationPaths": [
+        "作品集",
+        "开源影响力",
+        "线索获客"
+      ],
+      "whoPays": "潜在用户、企业或雇主。",
+      "firstCustomerPath": "把一个具体工作流做成公开Demo，找10名目标用户试用。",
+      "minimumDeliverable": "可访问Space与使用说明",
+      "actionPlan3Days": [
+        "选一个窄问题",
+        "完成基础Demo",
+        "写清输入输出"
+      ],
+      "actionPlan7Days": [
+        "上线",
+        "收集反馈",
+        "改进稳定性"
+      ],
+      "stopConditions": [
+        "没有真实用户反馈",
+        "运行成本不可控"
+      ],
+      "risks": [
+        "算力成本",
+        "数据与模型许可证"
+      ],
+      "score": 90
+    },
+    {
+      "id": "g4",
+      "slug": "devpost-ai-hackathons",
+      "title": "Devpost AI Hackathons",
+      "summary": "Devpost 聚合全球公开 AI 黑客松，可按规则、时间和资格寻找项目机会。",
+      "insight": "全球视野不是照搬，而是观察主办方在奖励什么能力和应用方向。",
+      "type": "global_case",
+      "domains": [
+        "黑客松",
+        "AI编程",
+        "出海"
+      ],
+      "audienceTags": [
+        "开发者",
+        "学生团队"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "A",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://devpost.com/c/artificial-intelligence",
+      "discoverySources": [
+        {
+          "name": "Devpost AI Hackathons",
+          "url": "https://devpost.com/c/artificial-intelligence",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "具体赛事规则页需逐条核验",
+          "url": "https://devpost.com/c/artificial-intelligence",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "按赛事",
+      "difficulty": 3,
+      "demandEvidence": "平台与赛事列表可核验；每场资格和地区限制需单独检查。",
+      "monetizationPaths": [
+        "奖金",
+        "作品集",
+        "全球曝光"
+      ],
+      "whoPays": "赛事主办方或后续客户。",
+      "firstCustomerPath": "将参赛作品放出公开试用版本。",
+      "minimumDeliverable": "可演示项目、视频、代码仓库",
+      "actionPlan3Days": [
+        "筛选仍开放赛事",
+        "阅读资格",
+        "确定团队"
+      ],
+      "actionPlan7Days": [
+        "做出原型",
+        "录演示",
+        "准备提交"
+      ],
+      "stopConditions": [
+        "地区不符合",
+        "截止已过"
+      ],
+      "risks": [
+        "英语材料",
+        "地区与年龄限制"
+      ],
+      "score": 84
+    },
+    {
+      "id": "g5",
+      "slug": "kaggle-ai-competitions",
+      "title": "Kaggle AI Competitions",
+      "summary": "全球数据科学与AI竞赛平台，适合算法学习、团队协作和公开方案积累。",
+      "insight": "对求职更有价值的是可复现方案和复盘，不只是排行榜名次。",
+      "type": "global_case",
+      "domains": [
+        "算法",
+        "数据科学",
+        "出海"
+      ],
+      "audienceTags": [
+        "算法学生",
+        "数据分析"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "A",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://www.kaggle.com/competitions",
+      "discoverySources": [
+        {
+          "name": "Kaggle Competitions",
+          "url": "https://www.kaggle.com/competitions",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "具体比赛规则需逐条核验",
+          "url": "https://www.kaggle.com/competitions",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "7—30天",
+      "difficulty": 4,
+      "demandEvidence": "官方竞赛平台可核验。",
+      "monetizationPaths": [
+        "奖金",
+        "作品集",
+        "求职"
+      ],
+      "whoPays": "赛事主办方或未来雇主。",
+      "firstCustomerPath": "把一次竞赛方案写成中文教程和可复现Notebook。",
+      "minimumDeliverable": "Notebook、验证结果、复盘",
+      "actionPlan3Days": [
+        "选入门赛事",
+        "跑通基线",
+        "理解指标"
+      ],
+      "actionPlan7Days": [
+        "改进模型",
+        "记录实验",
+        "发布复盘"
+      ],
+      "stopConditions": [
+        "算力超预算",
+        "基础知识不足且无学习计划"
+      ],
+      "risks": [
+        "竞赛不等于真实业务",
+        "规则限制"
+      ],
+      "score": 82
+    },
+    {
+      "id": "s1",
+      "slug": "ai-video-explainer-service",
+      "title": "AI 产品讲解短片小样服务",
+      "summary": "为校园团队、SaaS 小产品或本地商家制作15—45秒产品讲解样片，从单次服务验证需求。",
+      "insight": "先卖“一个讲清楚产品的样片”，不要一开始卖复杂代运营。",
+      "type": "side_hustle",
+      "domains": [
+        "AI视频",
+        "本地服务",
+        "内容创作"
+      ],
+      "audienceTags": [
+        "会剪辑",
+        "不想出镜",
+        "低预算"
+      ],
+      "country": "中国",
+      "city": "成都",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "officialUrl": "https://app.klingai.com/global/blog/ai-explainer-video-kling-ai-guide",
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        },
+        {
+          "name": "可灵 AI 官方产品讲解指南",
+          "url": "https://app.klingai.com/global/blog/ai-explainer-video-kling-ai-guide",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "编辑部商业可行性分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—200元",
+      "timeToValidate": "3—7天",
+      "difficulty": 2,
+      "demandEvidence": "工具能力可核验；客户付费需求需通过本地访谈和样片测试验证。",
+      "monetizationPaths": [
+        "按条收费",
+        "系列套餐",
+        "企业月度内容"
+      ],
+      "whoPays": "校园创业团队、本地商家、小型SaaS团队。",
+      "firstCustomerPath": "选择3家表达不清楚的本地商家，免费做10秒改造片段并询问是否愿意付费完成。",
+      "minimumDeliverable": "一支20秒样片、脚本和封面",
+      "actionPlan3Days": [
+        "选一个行业",
+        "做一支样片",
+        "联系10位潜在客户"
+      ],
+      "actionPlan7Days": [
+        "完成3次沟通",
+        "收取首笔定金或明确拒绝原因",
+        "沉淀报价单"
+      ],
+      "stopConditions": [
+        "20次有效沟通无人愿意继续",
+        "单条成本高于可接受报价"
+      ],
+      "risks": [
+        "素材版权",
+        "工具商用规则",
+        "过度承诺效果"
+      ],
+      "score": 87
+    },
+    {
+      "id": "s2",
+      "slug": "ai-ppt-structure-service",
+      "title": "AI PPT 与商业计划书结构优化",
+      "summary": "为比赛团队、社团和小企业提供内容梳理、故事线重构与页面表达服务。",
+      "insight": "真正付费点不是“生成PPT”，而是把材料变成评委或客户能迅速理解的结构。",
+      "type": "side_hustle",
+      "domains": [
+        "AI写作",
+        "PPT",
+        "商业计划书"
+      ],
+      "audienceTags": [
+        "文科生",
+        "设计师",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "编辑部方法卡，需用户自行验证市场",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—100元",
+      "timeToValidate": "3—7天",
+      "difficulty": 2,
+      "demandEvidence": "比赛、答辩与商务表达是长期存在的场景；具体付费意愿需要访谈验证。",
+      "monetizationPaths": [
+        "按页/按项目收费",
+        "模板包",
+        "答辩陪练"
+      ],
+      "whoPays": "比赛团队、社团负责人、小企业主。",
+      "firstCustomerPath": "从校内正在准备答辩的团队开始，做一页免费诊断。",
+      "minimumDeliverable": "一页诊断、目录结构、3页示范",
+      "actionPlan3Days": [
+        "找3份公开材料",
+        "做前后对比",
+        "在校内发布诊断服务"
+      ],
+      "actionPlan7Days": [
+        "完成5次咨询",
+        "拿到1个付费小单或形成拒绝原因",
+        "建立交付清单"
+      ],
+      "stopConditions": [
+        "客户只要低价美化且无法盈利",
+        "内容真实性无法确认"
+      ],
+      "risks": [
+        "代写学术内容",
+        "泄露客户材料"
+      ],
+      "score": 85
+    },
+    {
+      "id": "s3",
+      "slug": "ai-local-merchant-content",
+      "title": "本地商家 AI 内容试运营",
+      "summary": "围绕餐饮、健身、摄影、民宿等本地商家，用AI辅助脚本、视觉和剪辑，先做7天小范围实验。",
+      "insight": "一线打法迁移到二三线城市时，优势不是工具，而是更近的线下沟通和交付。",
+      "type": "side_hustle",
+      "domains": [
+        "本地服务",
+        "AI视频",
+        "AI设计"
+      ],
+      "audienceTags": [
+        "愿意线下沟通",
+        "会拍摄",
+        "城市青年"
+      ],
+      "country": "中国",
+      "city": "长沙",
+      "online": false,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "时间机器分析：需本地访谈确认",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "50—300元",
+      "timeToValidate": "7天",
+      "difficulty": 3,
+      "demandEvidence": "本地商家持续需要内容，但是否愿意为AI方案付费必须逐店验证。",
+      "monetizationPaths": [
+        "单次样片",
+        "月度内容包",
+        "活动物料"
+      ],
+      "whoPays": "本地商家。",
+      "firstCustomerPath": "步行范围内筛选10家内容质量较弱但客单价较高的商家。",
+      "minimumDeliverable": "3条内容样片与一页运营建议",
+      "actionPlan3Days": [
+        "选垂直行业",
+        "做1条样片",
+        "拜访5家商户"
+      ],
+      "actionPlan7Days": [
+        "完成10家沟通",
+        "争取1个付费试单",
+        "记录获客成本"
+      ],
+      "stopConditions": [
+        "15家有效沟通无需求",
+        "需要垫付大量广告费"
+      ],
+      "risks": [
+        "平台规则",
+        "拍摄授权",
+        "效果承诺"
+      ],
+      "score": 84
+    },
+    {
+      "id": "s4",
+      "slug": "ai-mini-site-service",
+      "title": "AI 辅助单页网站与作品集服务",
+      "summary": "为学生社团、个人创作者和小项目制作可分享的单页网站，从结构、文案到部署一起交付。",
+      "insight": "用户买的不是代码，而是“今天就能发出去的链接”。",
+      "type": "side_hustle",
+      "domains": [
+        "AI编程",
+        "网站",
+        "作品集"
+      ],
+      "audienceTags": [
+        "会一点编程",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "officialUrl": "https://github.com/education/students",
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        },
+        {
+          "name": "GitHub Student Developer Pack",
+          "url": "https://github.com/education/students",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "编辑部商业实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—100元",
+      "timeToValidate": "3—7天",
+      "difficulty": 3,
+      "demandEvidence": "学生资源可降低开发成本；具体客户需求需从社团、创作者和比赛团队验证。",
+      "monetizationPaths": [
+        "单页交付",
+        "维护费",
+        "模板产品"
+      ],
+      "whoPays": "个人创作者、学生团队、小项目。",
+      "firstCustomerPath": "给一个已有朋友圈或小红书内容的创作者做可分享主页样例。",
+      "minimumDeliverable": "可访问链接、移动端页面、基础SEO",
+      "actionPlan3Days": [
+        "做一个模板",
+        "找5个目标用户",
+        "演示前后差异"
+      ],
+      "actionPlan7Days": [
+        "完成首个付费或交换案例",
+        "形成标准问卷",
+        "整理交付边界"
+      ],
+      "stopConditions": [
+        "客户不断增加功能但预算不变",
+        "域名与维护责任不清"
+      ],
+      "risks": [
+        "客户数据",
+        "第三方部署规则"
+      ],
+      "score": 86
+    },
+    {
+      "id": "s5",
+      "slug": "ai-automation-workflow",
+      "title": "小团队 AI 自动化工作流搭建",
+      "summary": "帮助社团、工作室或小商家把重复的资料整理、内容初稿和表单汇总流程标准化。",
+      "insight": "不要卖“万能智能体”，只卖一个可测量的重复流程节省。",
+      "type": "side_hustle",
+      "domains": [
+        "AI自动化",
+        "智能体",
+        "企业提效"
+      ],
+      "audienceTags": [
+        "会流程工具",
+        "不想出镜"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "编辑部商业实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—300元",
+      "timeToValidate": "7天",
+      "difficulty": 4,
+      "demandEvidence": "重复流程普遍存在，但必须用真实时间记录证明价值。",
+      "monetizationPaths": [
+        "搭建费",
+        "培训费",
+        "维护费"
+      ],
+      "whoPays": "小团队负责人、社团、工作室。",
+      "firstCustomerPath": "找一个每周重复2小时以上的流程，先免费做一次流程审计。",
+      "minimumDeliverable": "流程图、自动化Demo、使用说明",
+      "actionPlan3Days": [
+        "访谈3个团队",
+        "记录重复任务",
+        "选一个窄流程"
+      ],
+      "actionPlan7Days": [
+        "做出Demo",
+        "测量节省时间",
+        "提出付费维护方案"
+      ],
+      "stopConditions": [
+        "没有高频重复流程",
+        "涉及高敏感数据且无法安全处理"
+      ],
+      "risks": [
+        "隐私与账号权限",
+        "错误自动执行"
+      ],
+      "score": 83
+    },
+    {
+      "id": "s6",
+      "slug": "ai-resume-portfolio-clinic",
+      "title": "AI 岗位简历与作品集诊断",
+      "summary": "围绕官方岗位JD，帮助同学把项目经历改写成可验证的结果，并制作一页作品集。",
+      "insight": "不代投、不承诺Offer，核心是岗位匹配和证据表达。",
+      "type": "side_hustle",
+      "domains": [
+        "AI求职",
+        "写作",
+        "作品集"
+      ],
+      "audienceTags": [
+        "文案能力",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "officialUrl": "https://jobs.bytedance.com/campus",
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        },
+        {
+          "name": "字节跳动校园岗位页",
+          "url": "https://jobs.bytedance.com/campus",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "岗位JD驱动的服务实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "3天",
+      "difficulty": 2,
+      "demandEvidence": "官方岗位要求可核验；用户付费意愿需在校内验证。",
+      "monetizationPaths": [
+        "单次诊断",
+        "作品集辅导",
+        "模拟面试"
+      ],
+      "whoPays": "求职中的同学。",
+      "firstCustomerPath": "先为3位同学免费诊断，收集前后对比和真实反馈。",
+      "minimumDeliverable": "岗位匹配表、简历修改建议、一页项目案例",
+      "actionPlan3Days": [
+        "选择一个岗位族",
+        "做诊断模板",
+        "服务3位测试用户"
+      ],
+      "actionPlan7Days": [
+        "形成案例",
+        "测试定价",
+        "明确不承诺录用"
+      ],
+      "stopConditions": [
+        "用户要求伪造经历",
+        "无法提供真实项目证据"
+      ],
+      "risks": [
+        "隐私",
+        "夸大经历"
+      ],
+      "score": 81
+    },
+    {
+      "id": "s7",
+      "slug": "ai-competition-research",
+      "title": "AI 比赛情报与报名材料整理服务",
+      "summary": "为校园团队整理官方比赛入口、资格、截止日期与材料清单，不代写虚假内容。",
+      "insight": "信息差最有价值的部分是“可靠与及时”，不是把公开链接藏起来收费。",
+      "type": "side_hustle",
+      "domains": [
+        "比赛",
+        "信息服务",
+        "AI写作"
+      ],
+      "audienceTags": [
+        "信息搜集强",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "officialUrl": "https://cy.ncss.cn/",
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        },
+        {
+          "name": "全国大学生创业服务网",
+          "url": "https://cy.ncss.cn/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "编辑部服务实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0",
+      "timeToValidate": "3—7天",
+      "difficulty": 2,
+      "demandEvidence": "官方赛事信息分散；团队是否愿意为整理和提醒付费需验证。",
+      "monetizationPaths": [
+        "定制清单",
+        "报名日历",
+        "材料协作"
+      ],
+      "whoPays": "学生团队、社团和指导老师。",
+      "firstCustomerPath": "为一个真实团队做免费截止日与材料清单。",
+      "minimumDeliverable": "官方链接账本、时间线、责任分工表",
+      "actionPlan3Days": [
+        "选3类比赛",
+        "搭模板",
+        "找1个团队试用"
+      ],
+      "actionPlan7Days": [
+        "完成一次交付",
+        "复盘遗漏",
+        "测试小额定价"
+      ],
+      "stopConditions": [
+        "无法保持更新",
+        "客户要求代造材料"
+      ],
+      "risks": [
+        "信息过期",
+        "误报截止日期"
+      ],
+      "score": 80
+    },
+    {
+      "id": "s8",
+      "slug": "ai-bilingual-product-page",
+      "title": "AI 产品双语落地页本地化",
+      "summary": "把国内小工具或作品集整理成英文落地页，也把海外产品表达方式翻译成适合国内用户的版本。",
+      "insight": "时间机器不是复制产品，而是翻译价值主张、支付习惯和使用场景。",
+      "type": "side_hustle",
+      "domains": [
+        "AI出海",
+        "网站",
+        "写作"
+      ],
+      "audienceTags": [
+        "英语较好",
+        "会网站"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "机会迁移实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—100元",
+      "timeToValidate": "7天",
+      "difficulty": 3,
+      "demandEvidence": "跨境展示是真实场景，但客户是否付费取决于产品阶段和效果。",
+      "monetizationPaths": [
+        "单页本地化",
+        "持续内容",
+        "出海研究"
+      ],
+      "whoPays": "独立开发者、小团队、创作者。",
+      "firstCustomerPath": "挑选3个有中文产品但英文页面薄弱的小项目，提供一段免费改写。",
+      "minimumDeliverable": "双语页面、价值主张、FAQ",
+      "actionPlan3Days": [
+        "选垂直领域",
+        "完成一页样例",
+        "联系10个项目"
+      ],
+      "actionPlan7Days": [
+        "完成2次沟通",
+        "拿到试单或拒绝原因",
+        "完善交付模板"
+      ],
+      "stopConditions": [
+        "产品本身没有需求",
+        "只做机械翻译"
+      ],
+      "risks": [
+        "商标与版权",
+        "跨境合规"
+      ],
+      "score": 82
+    },
+    {
+      "id": "st1",
+      "slug": "campus-ai-portfolio-studio",
+      "title": "校园 AI 作品集工作室",
+      "summary": "把比赛、课程和实习项目统一整理成可分享作品集，先服务一个学院或社团。",
+      "insight": "创业从“有人愿意展示自己的成果”开始，而不是先做复杂平台。",
+      "type": "startup",
+      "domains": [
+        "作品集",
+        "校园",
+        "AI求职"
+      ],
+      "audienceTags": [
+        "校园创业者",
+        "产品经理"
+      ],
+      "country": "中国",
+      "city": "武汉",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "低成本MVP实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—300元",
+      "timeToValidate": "7—30天",
+      "difficulty": 3,
+      "demandEvidence": "学生有项目分散和展示困难，但需访谈确认付费者是学生、学院还是企业。",
+      "monetizationPaths": [
+        "模板服务",
+        "学院项目页",
+        "招聘展示"
+      ],
+      "whoPays": "学生、学院、社团或招聘合作方。",
+      "firstCustomerPath": "为一个社团做10人作品集专题页。",
+      "minimumDeliverable": "10个作品的专题页与提交表单",
+      "actionPlan3Days": [
+        "访谈10名学生",
+        "做Figma/网页原型",
+        "找社团合作"
+      ],
+      "actionPlan7Days": [
+        "上线最小页面",
+        "收集提交",
+        "测试付费对象"
+      ],
+      "stopConditions": [
+        "没人愿意提交作品",
+        "无法找到明确付款方"
+      ],
+      "risks": [
+        "个人信息",
+        "作品版权"
+      ],
+      "score": 84
+    },
+    {
+      "id": "st2",
+      "slug": "city-ai-opportunity-radar",
+      "title": "城市 AI 机会雷达",
+      "summary": "针对单一城市聚合招聘、比赛、活动和本地服务需求，先做一个城市周报验证。",
+      "insight": "全国大而全很难建立信任，先把一个城市做深。",
+      "type": "startup",
+      "domains": [
+        "城市地图",
+        "信息服务",
+        "求职"
+      ],
+      "audienceTags": [
+        "内容创业者",
+        "城市青年"
+      ],
+      "country": "中国",
+      "city": "成都",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "低成本MVP实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—200元",
+      "timeToValidate": "7天",
+      "difficulty": 3,
+      "demandEvidence": "城市信息分散；需验证用户是否愿意持续订阅和提交线索。",
+      "monetizationPaths": [
+        "城市报告",
+        "招聘合作",
+        "活动合作"
+      ],
+      "whoPays": "求职者、企业、活动主办方。",
+      "firstCustomerPath": "发布一份“成都本周10条AI机会”公开报告。",
+      "minimumDeliverable": "一个城市、20条核验信息、订阅入口",
+      "actionPlan3Days": [
+        "确定城市",
+        "整理20个官方入口",
+        "制作周报"
+      ],
+      "actionPlan7Days": [
+        "发布",
+        "收集50个订阅或10个深度反馈",
+        "判断高频栏目"
+      ],
+      "stopConditions": [
+        "无法持续更新",
+        "用户只看不复访"
+      ],
+      "risks": [
+        "过期信息",
+        "商业合作影响独立性"
+      ],
+      "score": 88
+    },
+    {
+      "id": "st3",
+      "slug": "ai-creator-competition-calendar",
+      "title": "AI 创作者比赛日历",
+      "summary": "聚合即梦、可灵、B站、开发者平台和高校赛事，重点做截止日期、资格与版权提醒。",
+      "insight": "价值来自准确提醒和规则解读，不是复制活动页面。",
+      "type": "startup",
+      "domains": [
+        "比赛",
+        "创作者",
+        "工具"
+      ],
+      "audienceTags": [
+        "内容创作者",
+        "学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "低成本MVP实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—200元",
+      "timeToValidate": "7天",
+      "difficulty": 3,
+      "demandEvidence": "官方活动分散且更新快；需验证提醒是否形成复访。",
+      "monetizationPaths": [
+        "免费日历",
+        "高级提醒",
+        "专题报告"
+      ],
+      "whoPays": "创作者、团队或平台合作方。",
+      "firstCustomerPath": "先做20条官方活动的公开日历。",
+      "minimumDeliverable": "可订阅日历、官方链接、状态更新",
+      "actionPlan3Days": [
+        "整理来源清单",
+        "录入10条活动",
+        "设计状态规则"
+      ],
+      "actionPlan7Days": [
+        "发布",
+        "邀请30名创作者试用",
+        "记录复访率"
+      ],
+      "stopConditions": [
+        "无法保证准确更新",
+        "来源条款不允许"
+      ],
+      "risks": [
+        "截止日错误",
+        "版权条款解读错误"
+      ],
+      "score": 87
+    },
+    {
+      "id": "st4",
+      "slug": "ai-local-business-audit",
+      "title": "本地企业 AI 流程体检",
+      "summary": "针对一个行业，把重复工作拆成可自动化、不可自动化和高风险三类，先卖诊断再卖实施。",
+      "insight": "从“卖工具”转向“卖清楚的问题与节省”。",
+      "type": "startup",
+      "domains": [
+        "AI自动化",
+        "本地企业",
+        "咨询"
+      ],
+      "audienceTags": [
+        "懂业务",
+        "会自动化"
+      ],
+      "country": "中国",
+      "city": "广州",
+      "online": false,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "低成本MVP实验",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "100—500元",
+      "timeToValidate": "7—30天",
+      "difficulty": 4,
+      "demandEvidence": "企业重复流程真实存在，但行业、数据和预算差异很大。",
+      "monetizationPaths": [
+        "诊断费",
+        "实施费",
+        "维护费"
+      ],
+      "whoPays": "小企业和工作室。",
+      "firstCustomerPath": "从一个熟悉行业访谈5位老板。",
+      "minimumDeliverable": "流程地图、节省估算、一个Demo",
+      "actionPlan3Days": [
+        "选行业",
+        "访谈3家",
+        "画流程图"
+      ],
+      "actionPlan7Days": [
+        "完成1个Demo",
+        "测量节省",
+        "给出小额试点报价"
+      ],
+      "stopConditions": [
+        "没有明确责任人",
+        "涉及高风险数据"
+      ],
+      "risks": [
+        "数据安全",
+        "错误建议",
+        "实施责任"
+      ],
+      "score": 83
+    },
+    {
+      "id": "tm1",
+      "slug": "global-micro-saas-to-china-vertical-tool",
+      "title": "海外微型 SaaS → 国内垂直工作流工具",
+      "summary": "观察海外单点工具如何围绕一个高频动作收费，再迁移到国内具体职业或城市服务。",
+      "insight": "不要复制功能清单，先找国内用户愿意持续付费的单一动作。",
+      "type": "global_case",
+      "domains": [
+        "时间机器",
+        "SaaS",
+        "AI编程"
+      ],
+      "audienceTags": [
+        "独立开发者",
+        "产品经理"
+      ],
+      "country": "全球→中国",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "时间机器方法卡",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—500元",
+      "timeToValidate": "7—30天",
+      "difficulty": 4,
+      "demandEvidence": "海外样板可作为启发，但目标市场需求必须重新验证。",
+      "monetizationPaths": [
+        "订阅",
+        "按次付费",
+        "企业版"
+      ],
+      "whoPays": "特定职业用户或小团队。",
+      "firstCustomerPath": "访谈10个同一职业用户，找每周重复动作。",
+      "minimumDeliverable": "单一工作流Demo与付费页",
+      "actionPlan3Days": [
+        "选3个海外样板",
+        "拆解价值主张",
+        "访谈5人"
+      ],
+      "actionPlan7Days": [
+        "做MVP",
+        "测试预付或预约",
+        "记录阻力"
+      ],
+      "stopConditions": [
+        "只有新鲜感没有复用",
+        "本地支付和渠道不成立"
+      ],
+      "risks": [
+        "照搬侵权",
+        "错误理解市场"
+      ],
+      "score": 85,
+      "originalMarket": "海外成熟微型SaaS市场",
+      "targetMarket": "中国垂直职业与本地服务"
+    },
+    {
+      "id": "tm2",
+      "slug": "tier1-ai-service-to-lower-tier-city",
+      "title": "一线城市 AI 内容服务 → 二三线本地商家",
+      "summary": "把一线城市已经成熟的AI内容制作流程，重新适配二三线城市的预算、信任和线下交付。",
+      "insight": "竞争优势是近场服务与行业理解，不是说自己“技术领先”。",
+      "type": "global_case",
+      "domains": [
+        "时间机器",
+        "本地服务",
+        "AI视频"
+      ],
+      "audienceTags": [
+        "城市青年",
+        "内容创作者"
+      ],
+      "country": "中国",
+      "city": "长沙",
+      "online": false,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "时间机器方法卡",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "100—500元",
+      "timeToValidate": "7天",
+      "difficulty": 3,
+      "demandEvidence": "模式需要按本地客单价和获客方式重新验证。",
+      "monetizationPaths": [
+        "样片",
+        "月度包",
+        "活动项目"
+      ],
+      "whoPays": "本地商家。",
+      "firstCustomerPath": "选择一个行业，完成10家面对面访谈。",
+      "minimumDeliverable": "行业样片、报价表、交付边界",
+      "actionPlan3Days": [
+        "分析一线案例",
+        "缩小服务范围",
+        "做本地样片"
+      ],
+      "actionPlan7Days": [
+        "沟通10家",
+        "争取试单",
+        "复盘价格"
+      ],
+      "stopConditions": [
+        "商家无持续内容需求",
+        "交付成本无法覆盖"
+      ],
+      "risks": [
+        "地区刻板印象",
+        "效果承诺"
+      ],
+      "score": 86,
+      "originalMarket": "一线城市品牌与内容服务",
+      "targetMarket": "二三线城市本地商家"
+    },
+    {
+      "id": "tm3",
+      "slug": "china-ai-content-to-sea",
+      "title": "中国 AI 视频能力 → 海外本地化内容服务",
+      "summary": "利用国内AI视频工具和高效生产流程，为海外小商家或独立产品制作本地化短片。",
+      "insight": "出海不是把中文片加英文字幕，需要重新做文化、语气、支付和交付。",
+      "type": "global_case",
+      "domains": [
+        "时间机器",
+        "AI出海",
+        "AI视频"
+      ],
+      "audienceTags": [
+        "英语较好",
+        "视频创作者"
+      ],
+      "country": "中国→全球",
+      "online": true,
+      "sourceLevel": "B",
+      "verificationStatus": "partially_verified",
+      "editorial": true,
+      "officialUrl": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+      "discoverySources": [
+        {
+          "name": "AI先机编辑分析",
+          "url": "/sources/",
+          "kind": "professional"
+        },
+        {
+          "name": "Kling AI 全球活动区",
+          "url": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "时间机器方法卡",
+          "url": "/sources/",
+          "kind": "professional"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "100—500元",
+      "timeToValidate": "7—30天",
+      "difficulty": 4,
+      "demandEvidence": "工具与全球创作者生态可核验；跨境付费需求需单独验证。",
+      "monetizationPaths": [
+        "按片收费",
+        "月度内容",
+        "模板包"
+      ],
+      "whoPays": "海外独立开发者、小商家、创作者。",
+      "firstCustomerPath": "在一个英语社区公开3个垂直样片，邀请访谈。",
+      "minimumDeliverable": "英文落地页、3支样片、清晰报价",
+      "actionPlan3Days": [
+        "选国家和行业",
+        "研究10个本地广告",
+        "做1支样片"
+      ],
+      "actionPlan7Days": [
+        "发布3支样片",
+        "联系20个潜在客户",
+        "测试支付方式"
+      ],
+      "stopConditions": [
+        "无法解决支付与交付",
+        "文化表达不准确"
+      ],
+      "risks": [
+        "跨境支付",
+        "版权与税务"
+      ],
+      "score": 82,
+      "originalMarket": "中国高效率AI内容生产",
+      "targetMarket": "海外小商家与独立产品"
+    },
+    {
+      "id": "c8",
+      "slug": "adventurex-2026",
+      "title": "AdventureX 2026 青年黑客松",
+      "summary": "官方页面显示活动将于 2026 年 7 月 22—26 日在杭州举行，面向青年开发者、设计师、创作者和产品人，采用滚动录取。",
+      "insight": "这是适合25岁以下青年把想法、组队、开发和路演压缩到72小时内完成的高密度实践场。",
+      "type": "competition",
+      "domains": [
+        "黑客松",
+        "AI编程",
+        "创业"
+      ],
+      "audienceTags": [
+        "26岁以下",
+        "在校生",
+        "设计师",
+        "开发者"
+      ],
+      "country": "中国",
+      "city": "杭州",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://adventure-x.org/",
+      "discoverySources": [
+        {
+          "name": "AdventureX 2026 官方网站",
+          "url": "https://adventure-x.org/",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "AdventureX 2026 官方FAQ与申请说明",
+          "url": "https://adventure-x.org/",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "免报名费；额外差旅视个人情况",
+      "timeToValidate": "72小时集中开发",
+      "difficulty": 3,
+      "demandEvidence": "活动日期、地点、参与方式、青年资格与支持资源均可在官方页面核验。",
+      "monetizationPaths": [
+        "奖金与资源",
+        "作品集",
+        "团队与职业连接"
+      ],
+      "whoPays": "活动本身不等于稳定收入；价值来自赛事资源、作品与后续合作。",
+      "firstCustomerPath": "申请材料中展示一个真实做过的项目或清晰的问题洞察。",
+      "minimumDeliverable": "可演示Demo、路演和团队分工",
+      "actionPlan3Days": [
+        "阅读FAQ与申请要求",
+        "整理个人项目证据",
+        "提交申请或完善申请材料"
+      ],
+      "actionPlan7Days": [
+        "准备项目候选方向",
+        "补齐技术/设计短板",
+        "练习3分钟Demo表达"
+      ],
+      "stopConditions": [
+        "无法到场且无线上机制",
+        "申请资格或时间冲突"
+      ],
+      "risks": [
+        "滚动录取，席位有限",
+        "差旅与现场时间成本"
+      ],
+      "score": 96
+    },
+    {
+      "id": "c9",
+      "slug": "baidu-ai-studio-competition-hub",
+      "title": "飞桨 AI Studio 竞赛平台",
+      "summary": "百度飞桨星河社区官方竞赛入口，聚合人工智能、数据和行业赛题，可用于持续发现高校与开发者赛事。",
+      "insight": "适合作为算法和应用型学生的长期赛事源头页，而不是只收藏二手报名文章。",
+      "type": "event",
+      "domains": [
+        "算法",
+        "AI编程",
+        "高校赛事"
+      ],
+      "audienceTags": [
+        "算法学生",
+        "开发者",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://aistudio.baidu.com/competition",
+      "discoverySources": [
+        {
+          "name": "飞桨 AI Studio 竞赛平台",
+          "url": "https://aistudio.baidu.com/competition",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "飞桨星河社区官方竞赛入口",
+          "url": "https://aistudio.baidu.com/competition",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "持续关注",
+      "difficulty": 3,
+      "demandEvidence": "官方竞赛平台与赛题入口可核验；每场比赛的资格和日期需逐条检查。",
+      "monetizationPaths": [
+        "赛事奖励",
+        "算法作品集",
+        "实习求职"
+      ],
+      "whoPays": "赛事主办方或未来雇主。",
+      "firstCustomerPath": "选一场仍开放且有基线方案的比赛，先跑通最小结果。",
+      "minimumDeliverable": "Notebook、基线结果与复盘",
+      "actionPlan3Days": [
+        "筛选当前赛事",
+        "读规则",
+        "跑通基线"
+      ],
+      "actionPlan7Days": [
+        "做一次改进",
+        "记录实验",
+        "形成作品集页面"
+      ],
+      "stopConditions": [
+        "赛题已截止",
+        "算力或数据要求超预算"
+      ],
+      "risks": [
+        "竞赛与真实业务有差异",
+        "规则会更新"
+      ],
+      "score": 88
+    },
+    {
+      "id": "c10",
+      "slug": "modelscope-competition-hub",
+      "title": "魔搭社区竞赛与活动入口",
+      "summary": "ModelScope 魔搭社区官方竞赛页，覆盖模型、智能体、AIGC和开发者挑战。",
+      "insight": "它适合观察国内开源模型生态正在奖励哪些应用方向，并寻找可展示的Demo机会。",
+      "type": "event",
+      "domains": [
+        "开源",
+        "智能体",
+        "AI编程"
+      ],
+      "audienceTags": [
+        "开发者",
+        "高校团队",
+        "AI创作者"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://modelscope.cn/competition",
+      "discoverySources": [
+        {
+          "name": "魔搭社区竞赛页",
+          "url": "https://modelscope.cn/competition",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "ModelScope 官方竞赛与活动",
+          "url": "https://modelscope.cn/competition",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "持续关注",
+      "difficulty": 3,
+      "demandEvidence": "官方竞赛入口可核验；具体赛事状态需进入详情页确认。",
+      "monetizationPaths": [
+        "赛事奖励",
+        "开源影响力",
+        "作品集"
+      ],
+      "whoPays": "赛事主办方或后续合作方。",
+      "firstCustomerPath": "把参赛Demo公开成可访问应用，邀请真实用户体验。",
+      "minimumDeliverable": "Demo、仓库与项目说明",
+      "actionPlan3Days": [
+        "查看开放赛事",
+        "匹配技术栈",
+        "确定可完成范围"
+      ],
+      "actionPlan7Days": [
+        "上线原型",
+        "收集反馈",
+        "准备提交材料"
+      ],
+      "stopConditions": [
+        "赛事已结束",
+        "模型/算力许可证不适合"
+      ],
+      "risks": [
+        "开源许可证",
+        "算力成本",
+        "活动时效"
+      ],
+      "score": 87
+    },
+    {
+      "id": "c11",
+      "slug": "bilibili-ai-creator-hub",
+      "title": "B站 AI 创作大赛官方活动页",
+      "summary": "B站官方活动页可作为AI视频、动画和内容创作赛事的发现入口；当前页面的完整日期与投稿规则需要在支持的客户端或活动页内再次核验。",
+      "insight": "平台比赛最值得沉淀的是作品、账号和观众反馈，不要只为一次奖励做无法复用的内容。",
+      "type": "creator_program",
+      "domains": [
+        "AI视频",
+        "动画",
+        "内容创作"
+      ],
+      "audienceTags": [
+        "UP主",
+        "视频创作者",
+        "大学生"
+      ],
+      "country": "中国",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "pending_verification",
+      "officialUrl": "https://www.bilibili.com/blackboard/era/9qbSEy39uMMmRAF9.html",
+      "discoverySources": [
+        {
+          "name": "B站 AI 创作大赛活动页",
+          "url": "https://www.bilibili.com/blackboard/era/9qbSEy39uMMmRAF9.html",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "B站官方活动页；规则待在客户端复核",
+          "url": "https://www.bilibili.com/blackboard/era/9qbSEy39uMMmRAF9.html",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "0—低成本",
+      "timeToValidate": "3—14天",
+      "difficulty": 2,
+      "demandEvidence": "官方活动入口存在；当前报名状态、奖金与版权条款尚未完成网页端核验。",
+      "monetizationPaths": [
+        "作品曝光",
+        "账号成长",
+        "品牌合作样片"
+      ],
+      "whoPays": "平台奖励或后续品牌客户；不代表稳定收入。",
+      "firstCustomerPath": "把参赛内容做成可持续的系列，而不是一次性投稿。",
+      "minimumDeliverable": "完整投稿视频、封面和制作说明",
+      "actionPlan3Days": [
+        "在官方客户端核对规则",
+        "确认版权与投稿标签",
+        "制作10秒测试"
+      ],
+      "actionPlan7Days": [
+        "完成作品",
+        "发布",
+        "记录播放和互动反馈"
+      ],
+      "stopConditions": [
+        "活动已结束",
+        "授权条款不适合"
+      ],
+      "risks": [
+        "规则待复核",
+        "素材版权",
+        "平台内容政策"
+      ],
+      "score": 79
+    },
+    {
+      "id": "c12",
+      "slug": "kling-ai-activity-zone",
+      "title": "可灵 AI 全球创作活动区",
+      "summary": "可灵 AI 官方活动区聚合创作挑战和赛事，适合AI视频创作者持续检查新主题、积分和奖励。",
+      "insight": "把活动主题当作练习题和作品集题目，先建立稳定工作流，再判断是否投入更多额度。",
+      "type": "creator_program",
+      "domains": [
+        "AI视频",
+        "AI设计",
+        "出海"
+      ],
+      "audienceTags": [
+        "视频创作者",
+        "设计师"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+      "discoverySources": [
+        {
+          "name": "Kling AI Events",
+          "url": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "可灵 AI 官方活动区",
+          "url": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "3—14天",
+      "difficulty": 2,
+      "demandEvidence": "官方活动区与创作挑战入口可核验；具体赛事规则需逐条打开。",
+      "monetizationPaths": [
+        "奖励",
+        "作品集",
+        "海外展示"
+      ],
+      "whoPays": "活动主办方或后续内容客户。",
+      "firstCustomerPath": "选择一个活动主题，做成同时适合品牌样片的作品。",
+      "minimumDeliverable": "AI短片、提示词/流程说明",
+      "actionPlan3Days": [
+        "筛选开放活动",
+        "核对规则",
+        "完成风格测试"
+      ],
+      "actionPlan7Days": [
+        "完成并提交",
+        "制作英文说明",
+        "复盘成本"
+      ],
+      "stopConditions": [
+        "活动已结束",
+        "额度成本过高"
+      ],
+      "risks": [
+        "商用授权",
+        "活动地区限制"
+      ],
+      "score": 84
+    },
+    {
+      "id": "c13",
+      "slug": "miccai-gave2-2026",
+      "title": "MICCAI 2026 GAVE2 医学影像挑战",
+      "summary": "飞桨 AI Studio 官方竞赛详情页展示的国际眼科医学影像挑战，适合医学AI和计算机视觉方向团队关注。",
+      "insight": "专业赛题对普通副业不友好，但对科研、保研和算法作品集价值更高。",
+      "type": "competition",
+      "domains": [
+        "算法",
+        "医学AI",
+        "计算机视觉"
+      ],
+      "audienceTags": [
+        "研究生",
+        "算法学生",
+        "医学AI团队"
+      ],
+      "country": "全球",
+      "online": true,
+      "sourceLevel": "S",
+      "verificationStatus": "partially_verified",
+      "officialUrl": "https://aistudio.baidu.com/competition/detail/1463",
+      "discoverySources": [
+        {
+          "name": "飞桨 AI Studio 赛事详情",
+          "url": "https://aistudio.baidu.com/competition/detail/1463",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "GAVE2 挑战官方详情入口",
+          "url": "https://aistudio.baidu.com/competition/detail/1463",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "低—中",
+      "timeToValidate": "赛事周期",
+      "difficulty": 5,
+      "demandEvidence": "赛事主题和主办背景可核验；报名与提交日期需在详情页实时确认。",
+      "monetizationPaths": [
+        "科研成果",
+        "比赛成绩",
+        "算法求职"
+      ],
+      "whoPays": "赛事奖励或未来科研/就业机会，不是即时副业。",
+      "firstCustomerPath": "先联系导师或同方向同学，判断数据、算力和医学知识是否匹配。",
+      "minimumDeliverable": "可复现实验、模型结果与技术报告",
+      "actionPlan3Days": [
+        "核对资格与日期",
+        "下载数据说明",
+        "复现基线"
+      ],
+      "actionPlan7Days": [
+        "完成首次实验",
+        "记录指标",
+        "判断是否继续"
+      ],
+      "stopConditions": [
+        "缺乏数据权限或医学知识",
+        "算力超预算"
+      ],
+      "risks": [
+        "医学数据合规",
+        "科研诚信"
+      ],
+      "score": 82
+    },
+    {
+      "id": "c14",
+      "slug": "smart-car-baidu-2026",
+      "title": "2026 全国大学生智能汽车竞赛·百度智慧交通组",
+      "summary": "飞桨 AI Studio 官方页面展示的2026智能汽车竞赛赛项，包含线上练习、线下分区赛和全国总决赛。",
+      "insight": "适合把视觉、大模型、机器人和工程协作整合为一份强作品集。",
+      "type": "competition",
+      "domains": [
+        "机器人",
+        "计算机视觉",
+        "高校赛事"
+      ],
+      "audienceTags": [
+        "大学生",
+        "工程团队",
+        "算法学生"
+      ],
+      "country": "中国",
+      "online": false,
+      "sourceLevel": "S",
+      "verificationStatus": "ongoing",
+      "officialUrl": "https://aistudio.baidu.com/competition/detail/1484",
+      "discoverySources": [
+        {
+          "name": "飞桨 AI Studio 竞赛详情",
+          "url": "https://aistudio.baidu.com/competition/detail/1484",
+          "kind": "official"
+        }
+      ],
+      "confirmationSources": [
+        {
+          "name": "2026 百度智慧交通组官方赛题页",
+          "url": "https://aistudio.baidu.com/competition/detail/1484",
+          "kind": "official"
+        }
+      ],
+      "lastVerifiedAt": "2026-06-18",
+      "startupCost": "中—高，依赖学校设备",
+      "timeToValidate": "赛事周期",
+      "difficulty": 5,
+      "demandEvidence": "2026赛制与阶段可在官方页核验。",
+      "monetizationPaths": [
+        "赛事成绩",
+        "工程作品集",
+        "校招"
+      ],
+      "whoPays": "赛事奖励或未来雇主。",
+      "firstCustomerPath": "优先通过学校实验室或参赛队伍获取设备与指导。",
+      "minimumDeliverable": "可运行系统、技术报告和现场表现",
+      "actionPlan3Days": [
+        "联系校内队伍",
+        "核对设备条件",
+        "拆解赛题"
+      ],
+      "actionPlan7Days": [
+        "跑通基础模块",
+        "建立测试记录",
+        "明确分工"
+      ],
+      "stopConditions": [
+        "无设备与团队支持",
+        "错过校内报名"
+      ],
+      "risks": [
+        "硬件成本",
+        "现场稳定性",
+        "赛程需复核"
+      ],
+      "score": 85
+    }
+  ]
+}

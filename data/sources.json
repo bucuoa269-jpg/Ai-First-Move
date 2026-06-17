@@ -1,0 +1,141 @@
+{
+  "generatedAt": "2026-06-18",
+  "count": 27,
+  "records": [
+    {
+      "name": "即梦 AI 官方活动详情",
+      "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-289-dreamina-weekly-challenge",
+      "kind": "official"
+    },
+    {
+      "name": "赛事官方详情",
+      "url": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixcmsdetail/101773710117484023",
+      "kind": "official"
+    },
+    {
+      "name": "高校创新赛官方页",
+      "url": "https://developer.huawei.com/consumer/cn/activity/incentive/C4",
+      "kind": "official"
+    },
+    {
+      "name": "竞赛官方说明",
+      "url": "https://tianchi.aliyun.com/competition/entrance/532481/introduction",
+      "kind": "official"
+    },
+    {
+      "name": "活动官方说明",
+      "url": "https://jimeng.jianying.com/ai-tool/activity-detail/2026-172-dreamina-weekly-challenge",
+      "kind": "official"
+    },
+    {
+      "name": "腾讯云黑客松官网",
+      "url": "https://tch.cloud.tencent.com/",
+      "kind": "official"
+    },
+    {
+      "name": "全国大学生创业服务网",
+      "url": "https://cy.ncss.cn/",
+      "kind": "official"
+    },
+    {
+      "name": "百度校园招聘说明",
+      "url": "https://talent.baidu.com/jobs/",
+      "kind": "official"
+    },
+    {
+      "name": "百度职位列表",
+      "url": "https://talent.baidu.com/jobs/list",
+      "kind": "official"
+    },
+    {
+      "name": "字节跳动校园岗位页",
+      "url": "https://jobs.bytedance.com/campus",
+      "kind": "official"
+    },
+    {
+      "name": "阿里巴巴官方校招页",
+      "url": "https://campus-talent.alibaba.com/",
+      "kind": "official"
+    },
+    {
+      "name": "华为招聘官网",
+      "url": "https://career.huawei.com/cn/campus-recruitment",
+      "kind": "official"
+    },
+    {
+      "name": "腾讯校招",
+      "url": "https://join.qq.com/post.html?query=p_2",
+      "kind": "official"
+    },
+    {
+      "name": "GitHub Student Developer Pack",
+      "url": "https://github.com/education/students",
+      "kind": "official"
+    },
+    {
+      "name": "Campus Experts 官方页",
+      "url": "https://github.com/education/students/campus-expert",
+      "kind": "official"
+    },
+    {
+      "name": "Hugging Face Spaces",
+      "url": "https://huggingface.co/spaces",
+      "kind": "official"
+    },
+    {
+      "name": "具体赛事规则页需逐条核验",
+      "url": "https://devpost.com/c/artificial-intelligence",
+      "kind": "official"
+    },
+    {
+      "name": "具体比赛规则需逐条核验",
+      "url": "https://www.kaggle.com/competitions",
+      "kind": "official"
+    },
+    {
+      "name": "时间机器方法卡",
+      "url": "/sources/",
+      "kind": "professional"
+    },
+    {
+      "name": "可灵 AI 官方产品讲解指南",
+      "url": "https://app.klingai.com/global/blog/ai-explainer-video-kling-ai-guide",
+      "kind": "official"
+    },
+    {
+      "name": "可灵 AI 官方活动区",
+      "url": "https://app.klingai.com/global/activity-zone?id=830204967507738696",
+      "kind": "official"
+    },
+    {
+      "name": "AdventureX 2026 官方FAQ与申请说明",
+      "url": "https://adventure-x.org/",
+      "kind": "official"
+    },
+    {
+      "name": "飞桨星河社区官方竞赛入口",
+      "url": "https://aistudio.baidu.com/competition",
+      "kind": "official"
+    },
+    {
+      "name": "ModelScope 官方竞赛与活动",
+      "url": "https://modelscope.cn/competition",
+      "kind": "official"
+    },
+    {
+      "name": "B站官方活动页；规则待在客户端复核",
+      "url": "https://www.bilibili.com/blackboard/era/9qbSEy39uMMmRAF9.html",
+      "kind": "official"
+    },
+    {
+      "name": "GAVE2 挑战官方详情入口",
+      "url": "https://aistudio.baidu.com/competition/detail/1463",
+      "kind": "official"
+    },
+    {
+      "name": "2026 百度智慧交通组官方赛题页",
+      "url": "https://aistudio.baidu.com/competition/detail/1484",
+      "kind": "official"
+    }
+  ]
+}

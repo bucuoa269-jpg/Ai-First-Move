@@ -1,0 +1,2 @@
+id,slug,title,summary,type,domains,audienceTags,country,province,city,online,sourceLevel,verificationStatus,officialUrl,publishedAt,deadlineAt,lastVerifiedAt,startupCost,timeToValidate,difficulty,demandEvidence,whoPays,firstCustomerPath,minimumDeliverable,score,editorial
+example-001,example-slug,示例标题,示例摘要,competition,"AI视频|内容创作","大学生|创作者",中国,,成都,true,S,pending_verification,https://example.com,,,2026-06-18,0元,7天,2,请填写证据,请填写付款人,请填写第一步,请填写最小交付物,70,false
