@@ -1,0 +1,11 @@
+AI FirstMove V5 淘金地图优先版
+
+最简单上传：
+1. 解压这个 ZIP。
+2. 打开 GitHub 仓库 → Add file → Upload files。
+3. 把解压后文件夹里的所有内容拖进去，不要上传 ZIP 本身。
+4. Commit directly to main。
+5. Settings → Pages → Source 选择 GitHub Actions。
+6. Actions → Update and deploy AI FirstMove → Run workflow。
+
+最终路径：代码在 main，发布用 GitHub Actions。这样才能每6小时自动更新。

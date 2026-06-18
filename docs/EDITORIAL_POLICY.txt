@@ -1,0 +1,8 @@
+Source policy
+S: official first-party source
+A: professional media or research
+B: traceable interview/case
+C: discovery clue awaiting confirmation
+D: high-risk or unverifiable
+
+Every monetization claim should show platform, source URL, published time, captured time, source grade, cross-validation status and counter-risk.

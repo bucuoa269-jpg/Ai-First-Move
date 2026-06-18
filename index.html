@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="description" content="AI先机：面向大学生与年轻人的AI副业、创业、求职、比赛和城市机会地图。" />
+  <meta name="theme-color" content="#f7f8fa" />
+  <meta property="og:title" content="AI先机｜AI Native 青年机会地图" />
+  <meta property="og:description" content="把 AI 热点，变成你今天能行动的机会。" />
+  <meta property="og:type" content="website" />
+  <title>AI先机｜AI Native 青年机会地图</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="./site.webmanifest" />
+  <link rel="stylesheet" href="./assets/style.css" />
+  <link rel="stylesheet" href="./assets/v3.css" />
+  <link rel="stylesheet" href="./assets/v5-gold.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#home" aria-label="AI先机首页">
+        <span class="brand-mark">✦</span>
+        <span><strong>AI先机</strong><small>AI FirstMove</small></span>
+      </a>
+      <nav class="desktop-nav" aria-label="主导航">
+        <a href="#feed">机会流</a><a href="#side">稳副业</a><a href="#jobs">找工作</a><a href="#competition">比赛</a><a href="#cities">城市</a><a href="#time-machine">时间机器</a><a href="#interviews">访谈</a><a href="#sources">信源</a>
+      </nav>
+      <div class="header-actions">
+        <button class="icon-btn" id="themeBtn" title="切换深色模式" aria-label="切换深色模式">◐</button>
+        <button class="icon-btn" id="focusSearchBtn" title="搜索" aria-label="搜索">⌕</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="home">
+    <section class="hero container">
+      <div class="hero-copy">
+        <span class="eyebrow">国内优先 · 全球参照 · 官方链接优先</span>
+        <h1>今天的 AI 变化，<span>和你有什么关系？</span></h1>
+        <p>聚合副业、创业、求职、比赛和城市机会。不是只告诉你发生了什么，而是告诉你：是否可信、谁适合、第一步做什么。</p>
+        <div class="hero-actions">
+          <button class="primary-btn" id="heroSearchBtn">问问 AI，帮我找机会</button>
+          <a class="secondary-btn" href="#feed">直接浏览今日机会 →</a>
+        </div>
+        <div class="proof-row"><span>✓ 免注册免登录</span><span>✓ 官方来源优先</span><span>✓ 本地收藏不上传</span></div>
+      </div>
+
+      <section class="ai-search-panel" id="ai-search" aria-labelledby="ai-search-title">
+        <div class="panel-title"><div><strong id="ai-search-title">AI 一键寻找机会</strong><small>纯前端本地匹配，不需要 API</small></div><span class="ai-dot">AI</span></div>
+        <div class="input-wrap">
+          <textarea id="queryInput" placeholder="例如：我在成都读大三，会剪视频，每周有10小时，预算200元，不想出镜，想找一个能尽快验证的AI副业。"></textarea>
+          <button id="voiceBtn" class="voice-btn" title="语音输入">◉</button>
+        </div>
+        <div class="search-tools">
+          <label class="file-btn">上传 TXT / MD<input id="fileInput" type="file" accept=".txt,.md,.pdf,.docx" /></label>
+          <button class="primary-btn compact" id="runRecommendBtn">开始匹配</button>
+        </div>
+        <p id="fileMessage" class="file-message" hidden></p>
+        <div class="example-row">
+          <button data-example="成都 会剪视频 低成本 副业 不出镜">成都视频副业</button>
+          <button data-example="只看官方比赛 仍可报名">官方比赛</button>
+          <button data-example="杭州 2027届 AI产品 实习">杭州AI实习</button>
+          <button data-example="会写作 7天验证 不出镜">写作类机会</button>
+        </div>
+      </section>
+    </section>
+
+    <section class="container stats" id="stats"></section>
+
+    <section class="section container">
+      <div class="section-head"><div><h2>今日最值得关注 TOP 5</h2><p>按信源、青年执行度、行动清晰度与时效综合排序</p></div><a href="#feed">查看全部 →</a></div>
+      <div class="top-layout"><div class="top-list" id="topList"></div><aside class="deadline-card"><span class="deadline-icon">◷</span><h3>先处理时间窗口</h3><p>比赛、招聘和活动变化快，打开官方页面完成二次核验。</p><div id="deadlineList"></div></aside></div>
+    </section>
+
+    <section class="section container" id="feed">
+      <div class="section-head"><div><h2>AI 机会流</h2><p>官方事实与编辑分析严格分层，不用假链接填满页面</p></div><span id="resultCount"></span></div>
+      <div class="workspace">
+        <aside class="filter-panel">
+          <h3>机会类型</h3>
+          <div id="typeFilters" class="filter-list"></div>
+          <h3>信源等级</h3>
+          <select id="sourceFilter"><option value="all">全部等级</option><option value="S">S · 官方</option><option value="A">A · 专业</option><option value="B">B · 案例/分析</option></select>
+          <h3>关键词</h3>
+          <input id="feedSearch" class="simple-input" placeholder="视频、成都、实习…" />
+          <button class="clear-btn" id="clearFilters">清除筛选</button>
+        </aside>
+        <div class="feed-list" id="feedList"></div>
+        <aside class="right-rail">
+          <article class="rail-card"><h3>四条主线</h3><p><b>稳副业</b><small>先找付款人，再做交付</small></p><p><b>创业实验</b><small>7天MVP，不先注册公司</small></p><p><b>找工作</b><small>按岗位反推作品集</small></p><p><b>比赛雷达</b><small>奖金之外还有作品与连接</small></p></article>
+          <article class="rail-card"><h3>信息说明</h3><p class="rail-copy">S级代表官方原始入口；B级编辑分析必须由用户自行完成市场验证。</p><a href="#sources">查看评分方法 →</a></article>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section container" id="side">
+      <div class="section-head"><div><h2>稳副业</h2><p>低成本、可验证、不依赖侵权搬运或虚假宣传</p></div></div>
+      <div class="horizontal-cards" id="sideCards"></div>
+    </section>
+
+    <section class="section container" id="competition">
+      <div class="section-head"><div><h2>比赛与开发者机会</h2><p>高校赛事、黑客松、创作活动与生态资源</p></div></div>
+      <div class="horizontal-cards" id="competitionCards"></div>
+    </section>
+
+    <section class="section container" id="jobs">
+      <div class="section-head"><div><h2>AI 找工作</h2><p>官方招聘入口优先，具体岗位请进入官网实时筛选</p></div></div>
+      <div class="horizontal-cards" id="jobCards"></div>
+    </section>
+
+    <section class="section container" id="topics">
+      <div class="section-head"><div><h2>热门专题</h2><p>从一个热门能力，直接看到副业、岗位、比赛与全球样板</p></div></div>
+      <div class="topic-grid" id="topicGrid"></div>
+    </section>
+
+    <section class="section container" id="cities">
+      <div class="section-head"><div><h2>城市机会地图</h2><p>从全国泛资讯，走向可到达的岗位、活动和本地客户</p></div></div>
+      <div class="city-grid" id="cityGrid"></div>
+    </section>
+
+    <section class="section container" id="time-machine">
+      <div class="time-banner"><div><span>TIME MACHINE</span><h2>不是照搬，而是重新验证一遍</h2><p>观察先发市场、一线城市和科技行业已经验证的模式，再分析目标市场的需求、支付、渠道、文化和履约差异。</p></div><button id="timeMachineBtn" class="light-btn">查看迁移机会 →</button></div>
+      <div class="horizontal-cards" id="timeCards"></div>
+    </section>
+
+    <section class="section container" id="interviews">
+      <div class="section-head"><div><h2>深度访谈</h2><p>不只摘金句：提炼第一位客户、交付路径和不能照搬的条件</p></div></div>
+      <div class="interview-grid" id="interviewGrid"></div>
+    </section>
+
+    <section class="section container" id="sources">
+      <div class="section-head"><div><h2>信源不是装饰，而是产品底座</h2><p>每条信息同时区分发现来源与确认来源</p></div></div>
+      <div class="grade-grid">
+        <article><span class="grade s">S</span><h3>一手官方</h3><p>政府、高校、主办方、企业官网、官方招聘、产品文档和原始仓库。</p></article>
+        <article><span class="grade a">A</span><h3>专业来源</h3><p>有方法说明的报告、权威媒体、研究机构和企业官方公众号。</p></article>
+        <article><span class="grade b">B</span><h3>案例与分析</h3><p>创业者访谈、公开复盘或待验证的商业实验，不代表普遍收益。</p></article>
+        <article><span class="grade c">C</span><h3>社交线索</h3><p>小红书、抖音、B站和社群，只用于发现，必须继续找确认来源。</p></article>
+        <article><span class="grade d">D</span><h3>高风险</h3><p>保证收益、拉人头、冒充官方、侵权搬运和隐藏项目内容。</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer><div class="container footer-grid"><div><a class="brand" href="#home"><span class="brand-mark">✦</span><span><strong>AI先机</strong><small>AI Native 青年机会地图</small></span></a><p>国内优先，全球参照。把 AI 热点转化为可核验、可行动的青年机会。</p></div><div><b>重要说明</b><p>不保证收益；岗位、比赛、资格和日期以官方页面为准。</p></div><div><b>隐私</b><p>收藏与搜索记录只保存在当前浏览器，可随时清除。</p><button id="clearLocalBtn">清除本地记录</button></div></div></footer>
+
+  <nav class="mobile-nav"><a href="#home">今日</a><a href="#feed">分类</a><button id="mobileSearchBtn">AI搜索</button><a href="#cities">城市</a><button id="favoritesBtn">收藏</button></nav>
+
+  <div class="drawer-backdrop" id="recommendDrawer" hidden>
+    <aside class="drawer"><div class="drawer-head"><div><small>本地推荐结果</small><h2>为你匹配的 5 条机会</h2></div><button id="closeDrawer">×</button></div><div class="query-summary" id="querySummary"></div><div id="recommendList" class="feed-list"></div></aside>
+  </div>
+
+  <div class="modal-backdrop" id="detailModal" hidden>
+    <article class="detail-modal"><button class="modal-close" id="closeModal">×</button><div id="modalContent"></div></article>
+  </div>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script src="./assets/data.js"></script>
+  <script src="./assets/live-data.js"></script>
+  <script src="./assets/v3-data.js"></script>
+  <script src="./assets/v4-quality-data.js"></script>
+  <script src="./assets/v5-gold-data.js"></script>
+  <script src="./assets/app.js"></script>
+  <script src="./assets/v3.js"></script>
+  <script src="./assets/v4-quality.js"></script>
+  <script src="./assets/v5-gold.js"></script>
+</body>
+</html>

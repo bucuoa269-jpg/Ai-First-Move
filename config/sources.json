@@ -1,0 +1,300 @@
+{
+  "official_domains": [
+    "modelscope.cn",
+    "tch.cloud.tencent.com",
+    "cloud.tencent.com",
+    "aistudio.baidu.com",
+    "developer.huawei.com",
+    "adventure-x.org",
+    "github.com",
+    "github.blog",
+    "huggingface.co",
+    "openai.com",
+    "blog.google",
+    "youth.ntpc.gov.tw"
+  ],
+  "professional_domains": [
+    "xiaoyuzhoufm.com",
+    "podcasts.apple.com",
+    "pingwest.com",
+    "36kr.com",
+    "latepost.com",
+    "qbitai.com",
+    "cyol.com",
+    "sina.cn",
+    "scys.com",
+    "wx.zsxq.com",
+    "digitimes.com.tw",
+    "tsmc.com",
+    "systex.com",
+    "pgy.xiaohongshu.com",
+    "xingtu.cn",
+    "open.oceanengine.com",
+    "bbtnews.com.cn",
+    "huxiu.com",
+    "arxiv.org"
+  ],
+  "monitored_pages": [
+    {
+      "title": "手机上的创意 AI 挑战赛",
+      "url": "https://modelscope.cn/events/248",
+      "platform": "魔搭社区",
+      "kind": "黑客松",
+      "city": "线上",
+      "sourceLevel": "S",
+      "publishedAt": "2026-06-01",
+      "summary": "官方应用开发赛；活动状态、奖励与截止日期以页面为准。"
+    },
+    {
+      "title": "腾讯云黑客松·游戏开发挑战赛 2026",
+      "url": "https://tch.cloud.tencent.com/contest/40",
+      "platform": "腾讯云",
+      "kind": "黑客松",
+      "city": "全国高校",
+      "sourceLevel": "S",
+      "publishedAt": "2026-04-17",
+      "summary": "面向高校开发者的 AI 游戏创作挑战。"
+    },
+    {
+      "title": "腾讯云黑客松·AI 智能体争霸赛",
+      "url": "https://tch.cloud.tencent.com/contest/41",
+      "platform": "腾讯云",
+      "kind": "黑客松",
+      "city": "多赛区",
+      "sourceLevel": "S",
+      "publishedAt": "2026-04-15",
+      "summary": "Skill 与 Agent 双赛道，强调真实商业场景。"
+    },
+    {
+      "title": "AdventureX 2026",
+      "url": "https://adventure-x.org/",
+      "platform": "AdventureX",
+      "kind": "黑客松",
+      "city": "杭州",
+      "sourceLevel": "S",
+      "publishedAt": "2026-01-01",
+      "summary": "面向青年创造者的学生主导非营利黑客松。"
+    },
+    {
+      "title": "AI Hackathon Tour 2026",
+      "url": "https://modelscope.cn/active/ai-hackathon-tour",
+      "platform": "魔搭社区",
+      "kind": "黑客松",
+      "city": "多城市",
+      "sourceLevel": "S",
+      "publishedAt": "2026-01-01",
+      "summary": "魔搭社区联合高校与各地AI社区开展的黑客松系列。"
+    },
+    {
+      "title": "飞桨 AI Studio 竞赛平台",
+      "url": "https://aistudio.baidu.com/competition",
+      "platform": "百度飞桨",
+      "kind": "比赛平台",
+      "city": "线上",
+      "sourceLevel": "S",
+      "publishedAt": "2026-01-01",
+      "summary": "AI与大数据竞赛官方聚合入口，具体赛题需逐条核验。"
+    },
+    {
+      "title": "TSMC CareerHack 2026",
+      "url": "https://www.tsmc.com/static/english/careers/Careerhack/index.html",
+      "platform": "TSMC",
+      "kind": "黑客松归档",
+      "city": "新竹",
+      "sourceLevel": "S",
+      "publishedAt": "2025-12-01",
+      "summary": "企业AI协作主题校园黑客松，适合作为时间机器样板。"
+    },
+    {
+      "title": "2026 YTP黑客松",
+      "url": "https://event.systex.com/2026-ytphackathon",
+      "platform": "YTP Hackathon",
+      "kind": "城市AI黑客松归档",
+      "city": "台湾",
+      "sourceLevel": "S",
+      "publishedAt": "2026-01-12",
+      "summary": "用AI翻转城市样貌，青年组和高中组官方页面。"
+    },
+    {
+      "title": "台湾生成式AI应用黑客松",
+      "url": "https://www.digitimes.com.tw/seminar/generativeai_hackathon_2026/",
+      "platform": "DIGITIMES",
+      "kind": "生成式AI黑客松",
+      "city": "线上/线下",
+      "sourceLevel": "S",
+      "publishedAt": "2026-06-01",
+      "summary": "企业命题覆盖金融、智慧求职、智慧城市、零售。"
+    },
+    {
+      "title": "B站AI创作大赛复盘",
+      "url": "https://www.qbitai.com/2026/01/366573.html",
+      "platform": "量子位",
+      "kind": "AI创作者活动归档",
+      "city": "线上",
+      "sourceLevel": "A",
+      "publishedAt": "2026-01-05",
+      "summary": "B站首届AI创作大赛启动报道，需与官方/收官报道交叉。"
+    },
+    {
+      "title": "搞钱女孩GEO访谈",
+      "url": "https://www.xiaoyuzhoufm.com/podcast/63d945ece725b5378a158d29",
+      "platform": "小宇宙",
+      "kind": "AI变现访谈",
+      "city": "线上",
+      "sourceLevel": "B",
+      "publishedAt": "2026-06-18",
+      "summary": "GEO作为AI时代营销服务的案例线索。"
+    },
+    {
+      "title": "AI获利者访谈总结",
+      "url": "https://www.xiaoyuzhoufm.com/episode/697ec0242fc7f49d0932734c",
+      "platform": "小宇宙",
+      "kind": "AI变现访谈",
+      "city": "线上",
+      "sourceLevel": "B",
+      "publishedAt": "2026-02-01",
+      "summary": "访谈AI获利者后的商业化共性。"
+    },
+    {
+      "title": "OPC一人公司全球化",
+      "url": "https://www.xiaoyuzhoufm.com/episode/69c111fb521e5c0a809c9fb7",
+      "platform": "小宇宙",
+      "kind": "一人公司访谈",
+      "city": "全球",
+      "sourceLevel": "B",
+      "publishedAt": "2026-04-01",
+      "summary": "AI时代一人公司能力模型与全球化。"
+    },
+    {
+      "title": "小红书蒲公英官方商业化入口",
+      "url": "https://pgy.xiaohongshu.com/",
+      "platform": "小红书蒲公英",
+      "kind": "官方变现入口",
+      "city": "线上",
+      "sourceLevel": "S",
+      "publishedAt": "2026-06-19",
+      "summary": "小红书内容种草与直播合作官方平台，作为小红书商业化核验入口。"
+    },
+    {
+      "title": "巨量星图官方达人变现入口",
+      "url": "https://www.xingtu.cn/",
+      "platform": "巨量星图",
+      "kind": "官方变现入口",
+      "city": "线上",
+      "sourceLevel": "S",
+      "publishedAt": "2026-06-19",
+      "summary": "抖音营销生态服务平台，用于核验达人变现与品牌合作入口。"
+    },
+    {
+      "title": "巨量星图开放平台说明",
+      "url": "https://open.oceanengine.com/docs/1696710606442496",
+      "platform": "巨量引擎开放平台",
+      "kind": "官方平台说明",
+      "city": "线上",
+      "sourceLevel": "S",
+      "publishedAt": "2026-06-19",
+      "summary": "巨量星图作为创作者生态营销平台的官方说明。"
+    },
+    {
+      "title": "小红书月活与中长视频生态报道",
+      "url": "https://www.bbtnews.com.cn/2026/0527/594513.shtml",
+      "platform": "北京商报",
+      "kind": "平台趋势",
+      "city": "线上",
+      "sourceLevel": "A",
+      "publishedAt": "2026-05-27",
+      "summary": "小红书月活、日搜索和中长视频生态线索，需与官方报告交叉核验。"
+    },
+    {
+      "title": "小红书长图文播客4K内容形态报道",
+      "url": "https://www.huxiu.com/article/4861801.html",
+      "platform": "虎嗅",
+      "kind": "平台趋势",
+      "city": "线上",
+      "sourceLevel": "A",
+      "publishedAt": "2026-05-28",
+      "summary": "报道小红书长图文、播客和4K视频等新内容形态。"
+    },
+    {
+      "title": "满地找钱·小红书虚拟电商访谈",
+      "url": "https://podcasts.apple.com/cy/podcast/vol-119-2026%E5%89%AF%E4%B8%9A%E9%A6%96%E9%80%89-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%99%9A%E6%8B%9F%E7%94%B5%E5%95%86%E7%9A%84%E4%BD%8E%E9%97%A8%E6%A7%9B%E9%AB%98%E5%9B%9E%E6%8A%A5%E8%B7%AF%E5%BE%84/id1711326484?i=1000741442137&l=el",
+      "platform": "Apple Podcasts",
+      "kind": "小红书变现访谈",
+      "city": "线上",
+      "sourceLevel": "B",
+      "publishedAt": "2025-12-01",
+      "summary": "小红书虚拟电商案例访谈，收入与效果需二次核验。"
+    },
+    {
+      "title": "小红书KOC非正式劳动研究",
+      "url": "https://arxiv.org/abs/2409.08360",
+      "platform": "arXiv",
+      "kind": "反方研究",
+      "city": "线上",
+      "sourceLevel": "A",
+      "publishedAt": "2024-09-12",
+      "summary": "从KOC劳动、品牌和平台关系理解小红书商业化风险。"
+    },
+    {
+      "title": "AI辅助促销帖设计研究",
+      "url": "https://arxiv.org/abs/2407.14928",
+      "platform": "arXiv",
+      "kind": "AI设计研究",
+      "city": "线上",
+      "sourceLevel": "A",
+      "publishedAt": "2024-07-20",
+      "summary": "研究AI辅助普通用户创建促销帖，适合作为AI设计服务证据来源。"
+    }
+  ],
+  "rss_feeds": [
+    {
+      "url": "https://huggingface.co/blog/feed.xml",
+      "platform": "Hugging Face",
+      "kind": "全球AI",
+      "sourceLevel": "S"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/feed/",
+      "platform": "GitHub Blog",
+      "kind": "全球AI",
+      "sourceLevel": "S"
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "platform": "OpenAI",
+      "kind": "全球AI",
+      "sourceLevel": "S"
+    },
+    {
+      "url": "https://blog.google/technology/ai/rss/",
+      "platform": "Google AI",
+      "kind": "全球AI",
+      "sourceLevel": "S"
+    },
+    {
+      "url": "https://www.producthunt.com/feed",
+      "platform": "Product Hunt",
+      "kind": "全球产品",
+      "sourceLevel": "A"
+    }
+  ],
+  "discovery_queries": [
+    "AI 黑客松 大赛 大学生",
+    "AI 创业 副业 访谈",
+    "AIGC 招聘 实习",
+    "AI 视频 变现 创作者",
+    "AI 变现 访谈 小宇宙",
+    "AI GEO 生成式引擎优化 服务",
+    "AI 一人公司 OPC",
+    "AI 视频 创作者 大赛 官方",
+    "城市 AI 黑客松 2026",
+    "小红书 AI 漫画 带货 大学生 副业",
+    "抖音 AI 短视频 星图 达人 变现",
+    "小红书 虚拟电商 AI 副业 访谈",
+    "小红书 AI 创作者 变现 蒲公英",
+    "巨量星图 AI 创作者 变现",
+    "AI 变现 大学生 小红书 抖音 采访",
+    "AI 漫画 IP 带货 小红书",
+    "AI 副业 播客 采访 2026"
+  ]
+}
